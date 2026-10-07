@@ -1,0 +1,202 @@
+{
+  "name": {
+    "literal": "Morty"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "return",
+        "icepunch",
+        "quickattack",
+        "uturn"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "leftovers"
+      ],
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "limber"
+    },
+    {
+      "moveset": [
+        "sleeptalk",
+        "earthquake",
+        "curse",
+        "crunch"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "air_balloon"
+      ],
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "thickfat"
+    },
+    {
+      "moveset": [
+        "partingshot",
+        "obstruct",
+        "closecombat",
+        "knockoff"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "species": "obstagoon",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "guts"
+    },
+    {
+      "moveset": [
+        "bodyslam",
+        "healbell",
+        "stealthrock",
+        "milkdrink"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "life_orb"
+      ],
+      "species": "miltank",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "impish",
+      "ability": "thickfat"
+    },
+    {
+      "moveset": [
+        "crunch",
+        "swordsdance",
+        "firepunch",
+        "earthquake"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "focus_sash"
+      ],
+      "species": "ursaring",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "guts"
+    },
+    {
+      "moveset": [
+        "hypervoice",
+        "glare",
+        "flamethrower",
+        "roost"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:drampanite"
+      ],
+      "species": "drampa",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "modest",
+      "ability": "berserk",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

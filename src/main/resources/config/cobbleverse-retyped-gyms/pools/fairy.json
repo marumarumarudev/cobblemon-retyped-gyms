@@ -1,0 +1,287 @@
+{
+  "type": "fairy",
+  "pokemon": [
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "trace",
+      "movePool": [
+        "moonblast",
+        "psychic",
+        "shadowball",
+        "calmmind",
+        "mysticalfire",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "naturalcure",
+      "movePool": [
+        "dragondance",
+        "roost",
+        "earthquake",
+        "return",
+        "playrough",
+        "fireblast"
+      ]
+    },
+    {
+      "species": "mawile",
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "movePool": [
+        "playrough",
+        "ironhead",
+        "suckerpunch",
+        "swordsdance",
+        "firefang",
+        "thunderpunch"
+      ]
+    },
+    {
+      "species": "diancie",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "clearbody",
+      "movePool": [
+        "diamondstorm",
+        "moonblast",
+        "earthpower",
+        "stealthrock",
+        "calmmind",
+        "mysticalfire"
+      ]
+    },
+    {
+      "species": "audino",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "movePool": [
+        "dazzlinggleam",
+        "wish",
+        "protect",
+        "healbell",
+        "thunderwave",
+        "calmmind"
+      ]
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "movePool": [
+        "airslash",
+        "dazzlinggleam",
+        "roost",
+        "nastyplot",
+        "aurasphere",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "sylveon",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "pixilate",
+      "movePool": [
+        "hypervoice",
+        "mysticalfire",
+        "psyshock",
+        "calmmind",
+        "wish",
+        "protect"
+      ]
+    },
+    {
+      "species": "clefable",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "magicguard",
+      "movePool": [
+        "moonblast",
+        "softboiled",
+        "calmmind",
+        "flamethrower",
+        "thunderwave",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "primarina",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "movePool": [
+        "sparklingaria",
+        "moonblast",
+        "icebeam",
+        "psychic",
+        "energyball",
+        "calmmind"
+      ]
+    },
+    {
+      "species": "hatterene",
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "magicbounce",
+      "movePool": [
+        "dazzlinggleam",
+        "psychic",
+        "mysticalfire",
+        "trickroom",
+        "calmmind",
+        "shadowball"
+      ]
+    },
+    {
+      "species": "grimmsnarl",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "prankster",
+      "movePool": [
+        "spiritbreak",
+        "reflect",
+        "lightscreen",
+        "thunderwave",
+        "taunt",
+        "playrough"
+      ]
+    },
+    {
+      "species": "tinkaton",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "movePool": [
+        "gigatonhammer",
+        "playrough",
+        "knockoff",
+        "stealthrock",
+        "thunderwave",
+        "encore"
+      ]
+    },
+    {
+      "species": "mimikyu",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "movePool": [
+        "playrough",
+        "shadowclaw",
+        "swordsdance",
+        "shadowsneak",
+        "drainpunch",
+        "woodhammer"
+      ]
+    },
+    {
+      "species": "florges",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "symbiosis",
+      "movePool": [
+        "moonblast",
+        "wish",
+        "protect",
+        "aromatherapy",
+        "calmmind",
+        "energyball"
+      ]
+    },
+    {
+      "species": "alcremie",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "sweetveil",
+      "movePool": [
+        "dazzlinggleam",
+        "mysticalfire",
+        "recover",
+        "calmmind",
+        "acidarmor",
+        "storedpower"
+      ]
+    },
+    {
+      "species": "azumarill",
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "movePool": [
+        "playrough",
+        "liquidation",
+        "aquajet",
+        "bellydrum",
+        "superpower",
+        "icepunch"
+      ]
+    },
+    {
+      "species": "alloette",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "dancer",
+      "movePool": [
+        "moonblast",
+        "airslash",
+        "hurricane",
+        "calmmind",
+        "dazzlinggleam",
+        "fleurdance"
+      ]
+    },
+    {
+      "species": "gardevoir goth",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "insomnia",
+      "movePool": [
+        "moonblast",
+        "darkpulse",
+        "calmmind",
+        "shadowball",
+        "psychic",
+        "mysticalfire"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "gardevoir",
+      "megaStone": "mega_showdown:gardevoirite"
+    },
+    {
+      "species": "altaria",
+      "megaStone": "mega_showdown:altarianite"
+    },
+    {
+      "species": "mawile",
+      "megaStone": "mega_showdown:mawilite"
+    },
+    {
+      "species": "audino",
+      "megaStone": "mega_showdown:audinite"
+    },
+    {
+      "species": "diancie",
+      "megaStone": "mega_showdown:diancite"
+    },
+    {
+      "species": "alloette",
+      "megaStone": "mega_showdown:alloettite"
+    },
+    {
+      "species": "gardevoir goth",
+      "megaStone": "mega_showdown:gardevoirite_midnight"
+    }
+  ]
+}

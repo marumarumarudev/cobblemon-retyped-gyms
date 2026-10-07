@@ -1,0 +1,84 @@
+[
+  {
+    "species": "sneezing",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "gooey",
+    "moves": [
+      "icebeam",
+      "sludgewave",
+      "shadowball",
+      "airslash"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "desmotel",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "sharpness",
+    "moves": [
+      "sacredsword",
+      "icespinner",
+      "nightslash",
+      "slash"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "mamoswine",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "thickfat",
+    "moves": [
+      "iceshard",
+      "earthquake",
+      "iciclecrash",
+      "knockoff"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "lapras",
+    "gender": "FEMALE",
+    "nature": "calm",
+    "ability": "waterabsorb",
+    "moves": [
+      "scald",
+      "icebeam",
+      "freezedry",
+      "hydropump"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "baxcalibur",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "thermalexchange",
+    "moves": [
+      "iciclespear",
+      "scaleshot",
+      "earthquake",
+      "dragondance"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "abomasnow",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "snowwarning",
+    "moves": [
+      "blizzard",
+      "gigadrain",
+      "focusblast",
+      "iceshard"
+    ],
+    "heldItem": "mega_showdown:abomasite",
+    "shiny": true,
+    "mega": true
+  }
+]

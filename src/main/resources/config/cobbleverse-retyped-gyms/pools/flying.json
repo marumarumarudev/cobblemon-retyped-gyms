@@ -1,0 +1,269 @@
+{
+  "type": "flying",
+  "pokemon": [
+    {
+      "species": "pidgeot",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "noprotect",
+      "movePool": [
+        "hurricane",
+        "heatwave",
+        "roost",
+        "uturn",
+        "hyperbeam",
+        "defog"
+      ]
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "movePool": [
+        "flamethrower",
+        "airslash",
+        "solarbeam",
+        "focusblast",
+        "roost",
+        "dragonpulse"
+      ]
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "movePool": [
+        "stoneedge",
+        "dualwingbeat",
+        "earthquake",
+        "roost",
+        "crunch",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "movePool": [
+        "doubleedge",
+        "dragondance",
+        "earthquake",
+        "roost",
+        "dracometeor",
+        "fireblast"
+      ]
+    },
+    {
+      "species": "pinsir",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "aerilate",
+      "movePool": [
+        "return",
+        "quickattack",
+        "closecombat",
+        "swordsdance",
+        "earthquake",
+        "xscissor"
+      ]
+    },
+    {
+      "species": "corviknight",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "pressure",
+      "movePool": [
+        "bravebird",
+        "bodypress",
+        "roost",
+        "defog",
+        "uturn",
+        "ironhead"
+      ]
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "multiscale",
+      "movePool": [
+        "dragondance",
+        "outrage",
+        "extremespeed",
+        "earthquake",
+        "roost",
+        "firepunch"
+      ]
+    },
+    {
+      "species": "staraptor",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "reckless",
+      "movePool": [
+        "bravebird",
+        "doubleedge",
+        "closecombat",
+        "uturn",
+        "finalgambit",
+        "quickattack"
+      ]
+    },
+    {
+      "species": "talonflame",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "galewings",
+      "movePool": [
+        "bravebird",
+        "flareblitz",
+        "roost",
+        "swordsdance",
+        "uturn",
+        "tailwind"
+      ]
+    },
+    {
+      "species": "crobat",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "movePool": [
+        "bravebird",
+        "crosspoison",
+        "roost",
+        "uturn",
+        "superfang",
+        "taunt"
+      ]
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "movePool": [
+        "airslash",
+        "dazzlinggleam",
+        "roost",
+        "nastyplot",
+        "aurasphere",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "gliscor",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "poisonheal",
+      "movePool": [
+        "earthquake",
+        "roost",
+        "toxic",
+        "swordsdance",
+        "facade",
+        "protect"
+      ]
+    },
+    {
+      "species": "braviary",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "movePool": [
+        "bravebird",
+        "closecombat",
+        "roost",
+        "bulkup",
+        "crushclaw",
+        "uturn"
+      ]
+    },
+    {
+      "species": "hawlucha",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "unburden",
+      "movePool": [
+        "highjumpkick",
+        "acrobatics",
+        "swordsdance",
+        "roost",
+        "stoneedge",
+        "poisonjab"
+      ]
+    },
+    {
+      "species": "noivern",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "movePool": [
+        "hurricane",
+        "dracometeor",
+        "flamethrower",
+        "uturn",
+        "roost",
+        "defog"
+      ]
+    },
+    {
+      "species": "mandibuzz",
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "overcoat",
+      "movePool": [
+        "foulplay",
+        "roost",
+        "defog",
+        "toxic",
+        "knockoff",
+        "uturn"
+      ]
+    },
+    {
+      "species": "dudunsparce",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "runaway",
+      "movePool": [
+        "extremespeed",
+        "doubleedge",
+        "earthquake",
+        "glidingslam",
+        "glare",
+        "airslash"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "pidgeot",
+      "megaStone": "mega_showdown:pidgeotite"
+    },
+    {
+      "species": "charizard",
+      "megaStone": "mega_showdown:charizardite_y"
+    },
+    {
+      "species": "aerodactyl",
+      "megaStone": "mega_showdown:aerodactylite"
+    },
+    {
+      "species": "salamence",
+      "megaStone": "mega_showdown:salamencite"
+    },
+    {
+      "species": "pinsir",
+      "megaStone": "mega_showdown:pinsirite"
+    },
+    {
+      "species": "pinsir",
+      "megaStone": "mega_showdown:pinsirite"
+    }
+  ]
+}

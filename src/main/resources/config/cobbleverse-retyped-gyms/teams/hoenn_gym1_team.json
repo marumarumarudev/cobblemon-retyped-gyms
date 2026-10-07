@@ -1,0 +1,90 @@
+[
+  {
+    "species": "ninetales",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "snowwarning",
+    "moves": [
+      "auroraveil",
+      "freezedry",
+      "moonblast",
+      "encore"
+    ],
+    "heldItem": "icy_rock",
+    "aspects": [
+      "alolan"
+    ]
+  },
+  {
+    "species": "cetitan",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "slushrush",
+    "moves": [
+      "bellydrum",
+      "iciclecrash",
+      "iceshard",
+      "earthquake"
+    ],
+    "heldItem": "sitrus_berry"
+  },
+  {
+    "species": "cloyster",
+    "gender": "FEMALE",
+    "nature": "naive",
+    "ability": "skilllink",
+    "moves": [
+      "shellsmash",
+      "iciclespear",
+      "rockblast",
+      "hydropump"
+    ],
+    "heldItem": "heavydutyboots",
+    "shiny": true
+  },
+  {
+    "species": "sandslash",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "slushrush",
+    "moves": [
+      "rapidspin",
+      "knockoff",
+      "ironhead",
+      "stealthrock"
+    ],
+    "heldItem": "heavydutyboots",
+    "aspects": [
+      "alolan"
+    ],
+    "shiny": true
+  },
+  {
+    "species": "mamoswine",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "thickfat",
+    "moves": [
+      "earthquake",
+      "iciclecrash",
+      "iceshard",
+      "stoneedge"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "baxcalibur",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "thermalexchange",
+    "moves": [
+      "protect",
+      "glaiverush",
+      "iceshard",
+      "iciclecrash"
+    ],
+    "heldItem": "mega_showdown:baxcalibrite",
+    "shiny": true,
+    "mega": true
+  }
+]

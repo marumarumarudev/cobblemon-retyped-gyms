@@ -1,0 +1,259 @@
+{
+  "type": "dragon",
+  "pokemon": [
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "multiscale",
+      "movePool": [
+        "dragonclaw",
+        "extremespeed",
+        "dragondance",
+        "earthquake",
+        "firepunch",
+        "roost"
+      ]
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "movePool": [
+        "dragonclaw",
+        "fly",
+        "earthquake",
+        "dragondance",
+        "fireblast",
+        "roost"
+      ]
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "movePool": [
+        "earthquake",
+        "dragonclaw",
+        "swordsdance",
+        "stoneedge",
+        "poisonjab",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "movePool": [
+        "darkpulse",
+        "dracometeor",
+        "fireblast",
+        "flashcannon",
+        "earthpower",
+        "uturn"
+      ]
+    },
+    {
+      "species": "dragapult",
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "infiltrator",
+      "movePool": [
+        "shadowball",
+        "dracometeor",
+        "uturn",
+        "flamethrower",
+        "thunderbolt",
+        "dragondarts"
+      ]
+    },
+    {
+      "species": "kingdra",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "movePool": [
+        "hydropump",
+        "dracometeor",
+        "icebeam",
+        "surf",
+        "dragondance",
+        "waterfall"
+      ]
+    },
+    {
+      "species": "haxorus",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "movePool": [
+        "outrage",
+        "earthquake",
+        "closecombat",
+        "dragondance",
+        "poisonjab",
+        "swordsdance"
+      ]
+    },
+    {
+      "species": "goodra",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sapsipper",
+      "movePool": [
+        "dracometeor",
+        "sludgebomb",
+        "flamethrower",
+        "icebeam",
+        "thunderbolt",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "kommoo",
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "bulletproof",
+      "movePool": [
+        "clangingscales",
+        "closecombat",
+        "clangoroussoul",
+        "poisonjab",
+        "flamethrower",
+        "boomburst"
+      ]
+    },
+    {
+      "species": "duraludon",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "lightmetal",
+      "movePool": [
+        "flashcannon",
+        "dracometeor",
+        "thunderbolt",
+        "dragonpulse",
+        "bodypress",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "noivern",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "movePool": [
+        "hurricane",
+        "dracometeor",
+        "flamethrower",
+        "roost",
+        "uturn",
+        "boomburst"
+      ]
+    },
+    {
+      "species": "flygon",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "levitate",
+      "movePool": [
+        "earthquake",
+        "dragonclaw",
+        "uturn",
+        "stoneedge",
+        "dragondance",
+        "roost"
+      ]
+    },
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "naturalcure",
+      "movePool": [
+        "dracometeor",
+        "hypervoice",
+        "roost",
+        "defog",
+        "flamethrower",
+        "cottonguard"
+      ]
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "movePool": [
+        "flareblitz",
+        "dragonclaw",
+        "dragondance",
+        "earthquake",
+        "roost",
+        "firepunch"
+      ]
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "movePool": [
+        "dracometeor",
+        "psychic",
+        "mysticalfire",
+        "surf",
+        "recover",
+        "thunderbolt"
+      ]
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "movePool": [
+        "dracometeor",
+        "mistball",
+        "calmmind",
+        "roost",
+        "surf",
+        "thunderbolt"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "salamence",
+      "megaStone": "mega_showdown:salamencite"
+    },
+    {
+      "species": "garchomp",
+      "megaStone": "mega_showdown:garchompite"
+    },
+    {
+      "species": "charizard",
+      "megaStone": "mega_showdown:charizardite_x"
+    },
+    {
+      "species": "altaria",
+      "megaStone": "mega_showdown:altarianite"
+    },
+    {
+      "species": "latios",
+      "megaStone": "mega_showdown:latiosite"
+    },
+    {
+      "species": "latias",
+      "megaStone": "mega_showdown:latiasite"
+    },
+    {
+      "species": "dragonite",
+      "megaStone": "zamega:dragoninite"
+    }
+  ]
+}

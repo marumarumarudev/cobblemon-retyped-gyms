@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+build/
+out/
+run/
+runs/
+logs/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+.project
+.classpath
+.settings/
+bin/
+eclipse/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Minecraft / Loom
+run-*/
+*.log
+crash-reports/
+screenshots/
+
+# Local config overrides (optional — remove these lines if you want to track config)
+# config/
+
+# Compiled / packaged
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+
+# Secrets / local env
+.env
+*.local

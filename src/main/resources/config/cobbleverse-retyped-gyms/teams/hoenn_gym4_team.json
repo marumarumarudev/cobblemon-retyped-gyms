@@ -1,0 +1,85 @@
+[
+  {
+    "species": "fluttermane",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "protosynthesis",
+    "moves": [
+      "shadowball",
+      "moonblast",
+      "powergem",
+      "thunderbolt"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "ironvaliant",
+    "gender": "GENDERLESS",
+    "nature": "naive",
+    "ability": "quarkdrive",
+    "moves": [
+      "swordsdance",
+      "closecombat",
+      "icepunch",
+      "shadowsneak"
+    ],
+    "heldItem": "expert_belt"
+  },
+  {
+    "species": "clefable",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "magicguard",
+    "moves": [
+      "moonblast",
+      "thunderbolt",
+      "calmmind",
+      "moonlight"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "azumarill",
+    "gender": "FEMALE",
+    "nature": "adamant",
+    "ability": "hugepower",
+    "moves": [
+      "aquajet",
+      "playrough",
+      "knockoff",
+      "bellydrum"
+    ],
+    "heldItem": "sitrus_berry"
+  },
+  {
+    "species": "sylveon",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "toxicribbons",
+    "moves": [
+      "venomousembrace",
+      "moonblast",
+      "sludgewave",
+      "psychic"
+    ],
+    "heldItem": "focus_sash",
+    "aspects": [
+      "kazeran"
+    ]
+  },
+  {
+    "species": "aloette",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "dancer",
+    "moves": [
+      "airslash",
+      "moonblast",
+      "revelationdance",
+      "psychic"
+    ],
+    "heldItem": "mega_showdown:alloettite",
+    "shiny": true,
+    "mega": true
+  }
+]

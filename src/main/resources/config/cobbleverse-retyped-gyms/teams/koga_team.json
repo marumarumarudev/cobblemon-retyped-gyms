@@ -1,0 +1,87 @@
+[
+  {
+    "species": "zoroark",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "illusion",
+    "moves": [
+      "bittermalice",
+      "shadowball",
+      "nastyplot",
+      "darkpulse"
+    ],
+    "heldItem": "life_orb",
+    "aspects": [
+      "hisuian"
+    ]
+  },
+  {
+    "species": "aegislash",
+    "gender": "GENDERLESS",
+    "nature": "sassy",
+    "ability": "stancechange",
+    "moves": [
+      "shadowball",
+      "flashcannon",
+      "kingsshield",
+      "shadowsneak"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "dragapult",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "clearbody",
+    "moves": [
+      "dragonpulse",
+      "shadowball",
+      "neverendingnightmare",
+      "thunderbolt"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "cursola",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "weakarmor",
+    "moves": [
+      "shadowball",
+      "powergem",
+      "earthpower",
+      "hex"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "gengar",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "cursedbody",
+    "moves": [
+      "substitute",
+      "nastyplot",
+      "shadowball",
+      "dazzlinggleam"
+    ],
+    "heldItem": "black_sludge"
+  },
+  {
+    "species": "froslass",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "snowcloak",
+    "moves": [
+      "shadowball",
+      "blizzard",
+      "protect",
+      "thunderbolt"
+    ],
+    "heldItem": "zamega:froslassite",
+    "shiny": true,
+    "mega": true
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "species": "chansey",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "naturalcure",
+    "moves": [
+      "softboiled",
+      "seismictoss",
+      "stealthrock",
+      "toxic"
+    ],
+    "heldItem": "eviolite"
+  },
+  {
+    "species": "porygon2",
+    "gender": "GENDERLESS",
+    "nature": "bold",
+    "ability": "download",
+    "moves": [
+      "psychic",
+      "discharge",
+      "icebeam",
+      "recover"
+    ],
+    "heldItem": "eviolite"
+  },
+  {
+    "species": "snorlax",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "gluttony",
+    "moves": [
+      "curse",
+      "recycle",
+      "facade",
+      "earthquake"
+    ],
+    "heldItem": "iapapa_berry"
+  },
+  {
+    "species": "diggersby",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "hugepower",
+    "moves": [
+      "swordsdance",
+      "earthquake",
+      "quickattack",
+      "uturn"
+    ],
+    "heldItem": "life_orb",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "ditto",
+    "gender": "GENDERLESS",
+    "nature": "relaxed",
+    "ability": "imposter",
+    "moves": [
+      "transform"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "pidgeot",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "bigpecks",
+    "moves": [
+      "hurricane",
+      "heatwave",
+      "defog",
+      "uturn"
+    ],
+    "heldItem": "mega_showdown:pidgeotite",
+    "shiny": true,
+    "mega": true
+  }
+]

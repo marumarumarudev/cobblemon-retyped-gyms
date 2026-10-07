@@ -1,0 +1,82 @@
+[
+  {
+    "species": "pincurchin",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "electricsurge",
+    "moves": [
+      "supercellslam",
+      "spikes",
+      "thunderwave",
+      "memento"
+    ],
+    "heldItem": "terrainextender"
+  },
+  {
+    "species": "ragingbolt",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "protosynthesis",
+    "moves": [
+      "thunderbolt",
+      "dracometeor",
+      "thunderclap",
+      "calmmind"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "sandyshocks",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "protosynthesis",
+    "moves": [
+      "earthpower",
+      "voltswitch",
+      "stealthrock",
+      "spikes"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "caslatoar",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "strongjaw",
+    "moves": [
+      "icefang",
+      "thunderfang",
+      "crunch",
+      "closecombat"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "amperox",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "hustle",
+    "moves": [
+      "skyuppercut",
+      "volttackle",
+      "closecombat",
+      "voltswitch"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "raichu",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "noguard",
+    "moves": [
+      "focusblast",
+      "zapcannon",
+      "grassknot",
+      "protect"
+    ],
+    "heldItem": "mega_showdown:raichunite_y",
+    "shiny": true,
+    "mega": true
+  }
+]

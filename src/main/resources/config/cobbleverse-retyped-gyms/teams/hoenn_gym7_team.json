@@ -1,0 +1,82 @@
+[
+  {
+    "species": "ironvaliant",
+    "gender": "GENDERLESS",
+    "nature": "naive",
+    "ability": "quarkdrive",
+    "moves": [
+      "moonblast",
+      "closecombat",
+      "thunderbolt",
+      "icepunch"
+    ],
+    "heldItem": "expert_belt"
+  },
+  {
+    "species": "greattusk",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "protosynthesis",
+    "moves": [
+      "earthquake",
+      "knockoff",
+      "rapidspin",
+      "stealthrock"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "gallade",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "sharpness",
+    "moves": [
+      "psychocut",
+      "sacredsword",
+      "nightslash",
+      "shadowsneak"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "ironhands",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "quarkdrive",
+    "moves": [
+      "swordsdance",
+      "drainpunch",
+      "thunderpunch",
+      "icepunch"
+    ],
+    "heldItem": "shuca_berry"
+  },
+  {
+    "species": "sneasler",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "poisontouch",
+    "moves": [
+      "direclaw",
+      "closecombat",
+      "uturn",
+      "switcheroo"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "staraptor",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "contrary",
+    "moves": [
+      "bravebird",
+      "closecombat",
+      "protect",
+      "dualwingbeat"
+    ],
+    "heldItem": "mega_showdown:staraptite",
+    "shiny": true,
+    "mega": true
+  }
+]

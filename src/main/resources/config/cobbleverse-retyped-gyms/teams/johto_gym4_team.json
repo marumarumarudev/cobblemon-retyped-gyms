@@ -1,0 +1,87 @@
+[
+  {
+    "species": "kamerog",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "defeatist",
+    "moves": [
+      "dualwingbeat",
+      "ironhead",
+      "flareblitz",
+      "firelash"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "misteamie",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "steamengine",
+    "moves": [
+      "waterspout",
+      "strangesteam",
+      "scald",
+      "flashcannon"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "oremand",
+    "gender": "MALE",
+    "nature": "impish",
+    "ability": "eartheater",
+    "moves": [
+      "stoneedge",
+      "ironhead",
+      "explosion",
+      "crunch"
+    ],
+    "heldItem": "rocky_helmet"
+  },
+  {
+    "species": "mechabang",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "eartheater",
+    "moves": [
+      "earthquake",
+      "bulletpunch",
+      "firepunch",
+      "meteormash"
+    ],
+    "heldItem": "assault_vest",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "tinkaton",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "pickpocket",
+    "moves": [
+      "waterfall",
+      "anchorshot",
+      "playrough",
+      "fakeout"
+    ],
+    "heldItem": "choice_scarf",
+    "aspects": [
+      "seavlian"
+    ]
+  },
+  {
+    "species": "excadrill",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "sandforce",
+    "moves": [
+      "swordsdance",
+      "ironhead",
+      "earthquake",
+      "rockslide"
+    ],
+    "heldItem": "mega_showdown:excadrillite",
+    "shiny": true,
+    "mega": true
+  }
+]

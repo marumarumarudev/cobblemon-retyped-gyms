@@ -1,0 +1,247 @@
+{
+  "type": "grass",
+  "pokemon": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "movePool": [
+        "sludgebomb",
+        "gigadrain",
+        "earthpower",
+        "synthesis",
+        "leechseed",
+        "sleeppowder"
+      ]
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "unburden",
+      "movePool": [
+        "leafstorm",
+        "dragonpulse",
+        "focusblast",
+        "gigadrain",
+        "energyball",
+        "leechseed"
+      ]
+    },
+    {
+      "species": "abomasnow",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "snowwarning",
+      "movePool": [
+        "blizzard",
+        "woodhammer",
+        "gigadrain",
+        "icebeam",
+        "earthquake",
+        "iceshard"
+      ]
+    },
+    {
+      "species": "ferrothorn",
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "movePool": [
+        "leechseed",
+        "gyroball",
+        "powerwhip",
+        "stealthrock",
+        "spikes",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "roserade",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "movePool": [
+        "sludgebomb",
+        "gigadrain",
+        "dazzlinggleam",
+        "spikes",
+        "leafstorm",
+        "synthesis"
+      ]
+    },
+    {
+      "species": "tangrowth",
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "regenerator",
+      "movePool": [
+        "gigadrain",
+        "knockoff",
+        "earthquake",
+        "focusblast",
+        "leechseed",
+        "sleeppowder"
+      ]
+    },
+    {
+      "species": "leafeon",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "chlorophyll",
+      "movePool": [
+        "leafblade",
+        "swordsdance",
+        "xscissor",
+        "doubleedge",
+        "quickattack",
+        "synthesis"
+      ]
+    },
+    {
+      "species": "tsareena",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "queenlymajesty",
+      "movePool": [
+        "tropkick",
+        "highjumpkick",
+        "knockoff",
+        "uturn",
+        "rapidspin",
+        "playrough"
+      ]
+    },
+    {
+      "species": "ludicolo",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "movePool": [
+        "hydropump",
+        "gigadrain",
+        "icebeam",
+        "surf",
+        "energyball",
+        "raindance"
+      ]
+    },
+    {
+      "species": "cradily",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "movePool": [
+        "gigadrain",
+        "ancientpower",
+        "recover",
+        "stealthrock",
+        "toxic",
+        "earthpower"
+      ]
+    },
+    {
+      "species": "whimsicott",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "prankster",
+      "movePool": [
+        "moonblast",
+        "energyball",
+        "encore",
+        "taunt",
+        "leechseed",
+        "uturn"
+      ]
+    },
+    {
+      "species": "decidueye",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "overgrow",
+      "movePool": [
+        "spiritshackle",
+        "leafblade",
+        "bravebird",
+        "swordsdance",
+        "roost",
+        "suckerpunch"
+      ]
+    },
+    {
+      "species": "rillaboom",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "grassysurge",
+      "movePool": [
+        "grassyglide",
+        "woodhammer",
+        "knockoff",
+        "uturn",
+        "highhorsepower",
+        "drainpunch"
+      ]
+    },
+    {
+      "species": "breloom",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "movePool": [
+        "machpunch",
+        "bulletseed",
+        "spore",
+        "swordsdance",
+        "rocktomb",
+        "forcepalm"
+      ]
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "contrary",
+      "movePool": [
+        "leafstorm",
+        "dragonpulse",
+        "glare",
+        "gigadrain",
+        "substitute",
+        "leechseed"
+      ]
+    },
+    {
+      "species": "victreebel",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "movePool": [
+        "leafstorm",
+        "sludgebomb",
+        "solarbeam",
+        "powerwhip",
+        "sleeppowder",
+        "sunnyday"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "venusaur",
+      "megaStone": "mega_showdown:venusaurite"
+    },
+    {
+      "species": "sceptile",
+      "megaStone": "mega_showdown:sceptilite"
+    },
+    {
+      "species": "abomasnow",
+      "megaStone": "mega_showdown:abomasite"
+    },
+    {
+      "species": "victreebel",
+      "megaStone": "zamega:victreebelite"
+    }
+  ]
+}

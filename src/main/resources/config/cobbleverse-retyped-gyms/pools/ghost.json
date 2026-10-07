@@ -1,0 +1,243 @@
+{
+  "type": "ghost",
+  "pokemon": [
+    {
+      "species": "banette",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "insomnia",
+      "movePool": [
+        "shadowclaw",
+        "knockoff",
+        "destinybond",
+        "gunkshot",
+        "suckerpunch",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "movePool": [
+        "shadowball",
+        "sludgebomb",
+        "focusblast",
+        "nastyplot",
+        "dazzlinggleam",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "dragapult",
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "infiltrator",
+      "movePool": [
+        "shadowball",
+        "dracometeor",
+        "uturn",
+        "flamethrower",
+        "thunderbolt",
+        "dragondarts"
+      ]
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "movePool": [
+        "shadowball",
+        "flamethrower",
+        "energyball",
+        "calmmind",
+        "willowisp",
+        "trick"
+      ]
+    },
+    {
+      "species": "mimikyu",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "movePool": [
+        "playrough",
+        "shadowclaw",
+        "swordsdance",
+        "shadowsneak",
+        "drainpunch",
+        "leechlife"
+      ]
+    },
+    {
+      "species": "aegislash",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "stancechange",
+      "movePool": [
+        "shadowball",
+        "flashcannon",
+        "kingsshield",
+        "shadowsneak",
+        "sacredsword",
+        "swordsdance"
+      ]
+    },
+    {
+      "species": "trevenant",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "naturalcure",
+      "movePool": [
+        "hornleech",
+        "poltergeist",
+        "willowisp",
+        "leechseed",
+        "earthquake",
+        "shadowclaw"
+      ]
+    },
+    {
+      "species": "skeledirge",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "unaware",
+      "movePool": [
+        "torchsong",
+        "shadowball",
+        "slackoff",
+        "willowisp",
+        "earthpower",
+        "hex"
+      ]
+    },
+    {
+      "species": "gourgeist",
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "frisk",
+      "movePool": [
+        "poltergeist",
+        "powerwhip",
+        "willowisp",
+        "synthesis",
+        "leechseed",
+        "shadowsneak"
+      ]
+    },
+    {
+      "species": "dusknoir",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "movePool": [
+        "shadowpunch",
+        "earthquake",
+        "icepunch",
+        "firepunch",
+        "shadowsneak",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "spiritomb",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "pressure",
+      "movePool": [
+        "foulplay",
+        "shadowball",
+        "willowisp",
+        "calmmind",
+        "painsplit",
+        "suckerpunch"
+      ]
+    },
+    {
+      "species": "jellicent",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "movePool": [
+        "shadowball",
+        "scald",
+        "recover",
+        "willowisp",
+        "icebeam",
+        "taunt"
+      ]
+    },
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "movePool": [
+        "shadowball",
+        "icebeam",
+        "spikes",
+        "destinybond",
+        "taunt",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "palossand",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "watercompaction",
+      "movePool": [
+        "shadowball",
+        "earthpower",
+        "shoreup",
+        "stealthrock",
+        "scorchingsands",
+        "toxic"
+      ]
+    },
+    {
+      "species": "ceruledge",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "movePool": [
+        "bitterblade",
+        "poltergeist",
+        "swordsdance",
+        "shadowsneak",
+        "closecombat",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "sableye",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "prankster",
+      "movePool": [
+        "knockoff",
+        "willowisp",
+        "recover",
+        "foulplay",
+        "taunt",
+        "encore"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "banette",
+      "megaStone": "mega_showdown:banettite"
+    },
+    {
+      "species": "gengar",
+      "megaStone": "mega_showdown:gengarite"
+    },
+    {
+      "species": "sableye",
+      "megaStone": "mega_showdown:sablenite"
+    }
+  ]
+}

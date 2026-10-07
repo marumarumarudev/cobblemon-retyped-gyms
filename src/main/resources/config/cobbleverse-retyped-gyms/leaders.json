@@ -1,0 +1,492 @@
+[
+  {
+    "fileId": "kanto_brock",
+    "displayName": "Brock",
+    "level": 36,
+    "itemCount": 2,
+    "team": "brock_team"
+  },
+  {
+    "fileId": "kanto_misty",
+    "displayName": "Misty",
+    "level": 44,
+    "itemCount": 2,
+    "team": "misty_team"
+  },
+  {
+    "fileId": "kanto_ltsurge",
+    "displayName": "Lt. Surge",
+    "level": 52,
+    "itemCount": 3,
+    "team": "ltsurge_team"
+  },
+  {
+    "fileId": "kanto_erika",
+    "displayName": "Erika",
+    "level": 60,
+    "itemCount": 3,
+    "team": "erika_team"
+  },
+  {
+    "fileId": "kanto_koga",
+    "displayName": "Koga",
+    "level": 68,
+    "itemCount": 3,
+    "team": "koga_team"
+  },
+  {
+    "fileId": "kanto_sabrina",
+    "displayName": "Sabrina",
+    "level": 75,
+    "itemCount": 4,
+    "team": "sabrina_team"
+  },
+  {
+    "fileId": "kanto_blaine",
+    "displayName": "Blaine",
+    "level": 82,
+    "itemCount": 4,
+    "team": "blaine_team"
+  },
+  {
+    "fileId": "kanto_giovanni",
+    "displayName": "Giovanni",
+    "level": 88,
+    "itemCount": 4,
+    "team": "giovanni_team"
+  },
+  {
+    "fileId": "team_rocket_giovanni",
+    "displayName": "Giovanni",
+    "level": 90,
+    "itemCount": 4,
+    "team": "tr_giovanni_team"
+  },
+  {
+    "fileId": "kanto_e4_lorelei",
+    "displayName": "Lorelei",
+    "level": 95,
+    "itemCount": 5,
+    "team": "e4_fairy_team"
+  },
+  {
+    "fileId": "kanto_league_lorelei",
+    "displayName": "Lorelei",
+    "level": 95,
+    "itemCount": 5,
+    "team": "e4_fairy_team"
+  },
+  {
+    "fileId": "kanto_e4_bruno",
+    "displayName": "Bruno",
+    "level": 97,
+    "itemCount": 5,
+    "team": "e4_steel_team"
+  },
+  {
+    "fileId": "kanto_league_bruno",
+    "displayName": "Bruno",
+    "level": 97,
+    "itemCount": 5,
+    "team": "e4_steel_team"
+  },
+  {
+    "fileId": "kanto_e4_agatha",
+    "displayName": "Agatha",
+    "level": 99,
+    "itemCount": 5,
+    "team": "e4_water_team"
+  },
+  {
+    "fileId": "kanto_league_agatha",
+    "displayName": "Agatha",
+    "level": 99,
+    "itemCount": 5,
+    "team": "e4_water_team"
+  },
+  {
+    "fileId": "kanto_e4_siegfrid",
+    "displayName": "Siegfrid",
+    "level": 100,
+    "itemCount": 5,
+    "team": "e4_flying_team"
+  },
+  {
+    "fileId": "kanto_league_siegfrid",
+    "displayName": "Siegfrid",
+    "level": 100,
+    "itemCount": 5,
+    "team": "e4_flying_team"
+  },
+  {
+    "fileId": "kanto_league_lance",
+    "displayName": "Lance",
+    "level": 100,
+    "itemCount": 5,
+    "team": "e4_flying_team"
+  },
+  {
+    "fileId": "kanto_champion_blue",
+    "displayName": "Blue",
+    "level": 100,
+    "itemCount": 5,
+    "team": "e4_blue_team"
+  },
+  {
+    "fileId": "johto_falkner",
+    "displayName": "Falkner",
+    "level": 40,
+    "itemCount": 2,
+    "team": "johto_gym1_team"
+  },
+  {
+    "fileId": "johto_valerio",
+    "displayName": "Falkner",
+    "level": 40,
+    "itemCount": 2,
+    "team": "johto_gym1_team"
+  },
+  {
+    "fileId": "johto_bugsy",
+    "displayName": "Bugsy",
+    "level": 48,
+    "itemCount": 2,
+    "team": "johto_gym2_team"
+  },
+  {
+    "fileId": "johto_raffaello",
+    "displayName": "Bugsy",
+    "level": 48,
+    "itemCount": 2,
+    "team": "johto_gym2_team"
+  },
+  {
+    "fileId": "johto_whitney",
+    "displayName": "Whitney",
+    "level": 56,
+    "itemCount": 3,
+    "team": "johto_gym3_team"
+  },
+  {
+    "fileId": "johto_chiara",
+    "displayName": "Whitney",
+    "level": 56,
+    "itemCount": 3,
+    "team": "johto_gym3_team"
+  },
+  {
+    "fileId": "johto_morty",
+    "displayName": "Morty",
+    "level": 64,
+    "itemCount": 3,
+    "team": "johto_gym4_team"
+  },
+  {
+    "fileId": "johto_angelo",
+    "displayName": "Morty",
+    "level": 64,
+    "itemCount": 3,
+    "team": "johto_gym4_team"
+  },
+  {
+    "fileId": "johto_chuck",
+    "displayName": "Chuck",
+    "level": 72,
+    "itemCount": 3,
+    "team": "johto_gym5_team"
+  },
+  {
+    "fileId": "johto_furio",
+    "displayName": "Chuck",
+    "level": 72,
+    "itemCount": 3,
+    "team": "johto_gym5_team"
+  },
+  {
+    "fileId": "johto_jasmine",
+    "displayName": "Jasmine",
+    "level": 80,
+    "itemCount": 4,
+    "team": "johto_gym6_team"
+  },
+  {
+    "fileId": "johto_pryce",
+    "displayName": "Pryce",
+    "level": 88,
+    "itemCount": 4,
+    "team": "johto_gym7_team"
+  },
+  {
+    "fileId": "johto_alfredo",
+    "displayName": "Pryce",
+    "level": 88,
+    "itemCount": 4,
+    "team": "johto_gym7_team"
+  },
+  {
+    "fileId": "johto_clair",
+    "displayName": "Clair",
+    "level": 96,
+    "itemCount": 4,
+    "team": "johto_gym8_team"
+  },
+  {
+    "fileId": "johto_sandra",
+    "displayName": "Clair",
+    "level": 96,
+    "itemCount": 4,
+    "team": "johto_gym8_team"
+  },
+  {
+    "fileId": "johto_e4_will",
+    "displayName": "Will",
+    "level": 95,
+    "itemCount": 5,
+    "team": "johto_e4_dragon_team"
+  },
+  {
+    "fileId": "johto_league_will",
+    "displayName": "Will",
+    "level": 95,
+    "itemCount": 5,
+    "team": "johto_e4_dragon_team"
+  },
+  {
+    "fileId": "johto_e4_koga",
+    "displayName": "Koga",
+    "level": 97,
+    "itemCount": 5,
+    "team": "johto_e4_ghost_team"
+  },
+  {
+    "fileId": "johto_league_koga",
+    "displayName": "Koga",
+    "level": 97,
+    "itemCount": 5,
+    "team": "johto_e4_ghost_team"
+  },
+  {
+    "fileId": "johto_e4_bruno",
+    "displayName": "Bruno",
+    "level": 99,
+    "itemCount": 5,
+    "team": "johto_e4_ground_team"
+  },
+  {
+    "fileId": "johto_league_bruno",
+    "displayName": "Bruno",
+    "level": 99,
+    "itemCount": 5,
+    "team": "johto_e4_ground_team"
+  },
+  {
+    "fileId": "johto_e4_karen",
+    "displayName": "Karen",
+    "level": 100,
+    "itemCount": 5,
+    "team": "johto_e4_electric_team"
+  },
+  {
+    "fileId": "johto_league_karen",
+    "displayName": "Karen",
+    "level": 100,
+    "itemCount": 5,
+    "team": "johto_e4_electric_team"
+  },
+  {
+    "fileId": "johto_champion_lance",
+    "displayName": "Lance",
+    "level": 100,
+    "itemCount": 5,
+    "team": "johto_champion_team"
+  },
+  {
+    "fileId": "johto_league_lance",
+    "displayName": "Lance",
+    "level": 100,
+    "itemCount": 5,
+    "team": "johto_champion_team"
+  },
+  {
+    "fileId": "hoenn_petra",
+    "displayName": "Roxanne",
+    "level": 40,
+    "itemCount": 2,
+    "team": "hoenn_gym1_team"
+  },
+  {
+    "fileId": "hoenn_gym1",
+    "displayName": "Roxanne",
+    "level": 40,
+    "itemCount": 2,
+    "team": "hoenn_gym1_team"
+  },
+  {
+    "fileId": "hoenn_rudi",
+    "displayName": "Brawly",
+    "level": 48,
+    "itemCount": 2,
+    "team": "hoenn_gym2_team"
+  },
+  {
+    "fileId": "hoenn_gym2",
+    "displayName": "Brawly",
+    "level": 48,
+    "itemCount": 2,
+    "team": "hoenn_gym2_team"
+  },
+  {
+    "fileId": "hoenn_walter",
+    "displayName": "Wattson",
+    "level": 56,
+    "itemCount": 3,
+    "team": "hoenn_gym3_team"
+  },
+  {
+    "fileId": "hoenn_gym3",
+    "displayName": "Wattson",
+    "level": 56,
+    "itemCount": 3,
+    "team": "hoenn_gym3_team"
+  },
+  {
+    "fileId": "hoenn_fiammetta",
+    "displayName": "Flannery",
+    "level": 64,
+    "itemCount": 3,
+    "team": "hoenn_gym4_team"
+  },
+  {
+    "fileId": "hoenn_gym4",
+    "displayName": "Flannery",
+    "level": 64,
+    "itemCount": 3,
+    "team": "hoenn_gym4_team"
+  },
+  {
+    "fileId": "hoenn_norman",
+    "displayName": "Norman",
+    "level": 72,
+    "itemCount": 3,
+    "team": "hoenn_gym5_team"
+  },
+  {
+    "fileId": "hoenn_gym5",
+    "displayName": "Norman",
+    "level": 72,
+    "itemCount": 3,
+    "team": "hoenn_gym5_team"
+  },
+  {
+    "fileId": "hoenn_tell",
+    "displayName": "Winona",
+    "level": 80,
+    "itemCount": 4,
+    "team": "hoenn_gym6_team"
+  },
+  {
+    "fileId": "hoenn_gym6",
+    "displayName": "Winona",
+    "level": 80,
+    "itemCount": 4,
+    "team": "hoenn_gym6_team"
+  },
+  {
+    "fileId": "hoenn_alice",
+    "displayName": "Tate&Liza",
+    "level": 88,
+    "itemCount": 4,
+    "team": "hoenn_gym7_team"
+  },
+  {
+    "fileId": "hoenn_gym7",
+    "displayName": "Tate&Liza",
+    "level": 88,
+    "itemCount": 4,
+    "team": "hoenn_gym7_team"
+  },
+  {
+    "fileId": "hoenn_adriano",
+    "displayName": "Juan",
+    "level": 94,
+    "itemCount": 4,
+    "team": "hoenn_gym8_team"
+  },
+  {
+    "fileId": "hoenn_gym8",
+    "displayName": "Juan",
+    "level": 94,
+    "itemCount": 4,
+    "team": "hoenn_gym8_team"
+  },
+  {
+    "fileId": "hoenn_e4_fosco",
+    "displayName": "Sidney",
+    "level": 95,
+    "itemCount": 5,
+    "team": "hoenn_e4_water_team"
+  },
+  {
+    "fileId": "hoenn_league_fosco",
+    "displayName": "Sidney",
+    "level": 95,
+    "itemCount": 5,
+    "team": "hoenn_e4_water_team"
+  },
+  {
+    "fileId": "hoenn_e4_ester",
+    "displayName": "Phoebe",
+    "level": 97,
+    "itemCount": 5,
+    "team": "hoenn_e4_fire_team"
+  },
+  {
+    "fileId": "hoenn_league_ester",
+    "displayName": "Phoebe",
+    "level": 97,
+    "itemCount": 5,
+    "team": "hoenn_e4_fire_team"
+  },
+  {
+    "fileId": "hoenn_e4_frida",
+    "displayName": "Glacia",
+    "level": 99,
+    "itemCount": 5,
+    "team": "hoenn_e4_ghost_team"
+  },
+  {
+    "fileId": "hoenn_league_frida",
+    "displayName": "Glacia",
+    "level": 99,
+    "itemCount": 5,
+    "team": "hoenn_e4_ghost_team"
+  },
+  {
+    "fileId": "hoenn_e4_drake",
+    "displayName": "Drake",
+    "level": 100,
+    "itemCount": 5,
+    "team": "hoenn_e4_dragon_team"
+  },
+  {
+    "fileId": "hoenn_league_drake",
+    "displayName": "Drake",
+    "level": 100,
+    "itemCount": 5,
+    "team": "hoenn_e4_dragon_team"
+  },
+  {
+    "fileId": "hoenn_champion_rocco",
+    "displayName": "Steven",
+    "level": 100,
+    "itemCount": 5,
+    "team": "hoenn_champion_team"
+  },
+  {
+    "fileId": "hoenn_league_champion",
+    "displayName": "Steven",
+    "level": 100,
+    "itemCount": 5,
+    "team": "hoenn_champion_team"
+  }
+]

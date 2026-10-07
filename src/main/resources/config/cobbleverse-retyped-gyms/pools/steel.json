@@ -1,0 +1,287 @@
+{
+  "type": "steel",
+  "pokemon": [
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "movePool": [
+        "ironhead",
+        "headsmash",
+        "earthquake",
+        "heavyslam",
+        "stoneedge",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "magnezone",
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "movePool": [
+        "flashcannon",
+        "thunderbolt",
+        "voltswitch",
+        "triattack",
+        "thunderwave",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "movePool": [
+        "ironhead",
+        "earthquake",
+        "stealthrock",
+        "bodypress",
+        "curse",
+        "gyroball"
+      ]
+    },
+    {
+      "species": "metagross",
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "clearbody",
+      "movePool": [
+        "meteormash",
+        "zenheadbutt",
+        "bulletpunch",
+        "earthquake",
+        "agility",
+        "icepunch"
+      ]
+    },
+    {
+      "species": "scizor",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "movePool": [
+        "bulletpunch",
+        "swordsdance",
+        "uturn",
+        "closecombat",
+        "roost",
+        "dualwingbeat"
+      ]
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "movePool": [
+        "closecombat",
+        "flashcannon",
+        "extremespeed",
+        "swordsdance",
+        "meteormash",
+        "crunch"
+      ]
+    },
+    {
+      "species": "bronzong",
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "levitate",
+      "movePool": [
+        "flashcannon",
+        "psychic",
+        "stealthrock",
+        "gyroball",
+        "hypnosis",
+        "irondefense"
+      ]
+    },
+    {
+      "species": "ferrothorn",
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "movePool": [
+        "leechseed",
+        "gyroball",
+        "powerwhip",
+        "stealthrock",
+        "spikes",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "movePool": [
+        "bravebird",
+        "bodypress",
+        "roost",
+        "spikes",
+        "stealthrock",
+        "whirlwind"
+      ]
+    },
+    {
+      "species": "mawile",
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "movePool": [
+        "playrough",
+        "ironhead",
+        "suckerpunch",
+        "swordsdance",
+        "firefang",
+        "thunderpunch"
+      ]
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "movePool": [
+        "earthquake",
+        "ironhead",
+        "swordsdance",
+        "rockslide",
+        "rapidspin",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "corviknight",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "pressure",
+      "movePool": [
+        "bravebird",
+        "bodypress",
+        "roost",
+        "defog",
+        "uturn",
+        "ironhead"
+      ]
+    },
+    {
+      "species": "tinkaton",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "movePool": [
+        "gigatonhammer",
+        "playrough",
+        "knockoff",
+        "stealthrock",
+        "thunderwave",
+        "encore"
+      ]
+    },
+    {
+      "species": "bisharp",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "defiant",
+      "movePool": [
+        "ironhead",
+        "suckerpunch",
+        "knockoff",
+        "swordsdance",
+        "stealthrock",
+        "lowkick"
+      ]
+    },
+    {
+      "species": "duraludon",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "stalwart",
+      "movePool": [
+        "flashcannon",
+        "dracometeor",
+        "thunderbolt",
+        "dragonpulse",
+        "bodypress",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "copperajah",
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "sheerforce",
+      "movePool": [
+        "heavyslam",
+        "earthquake",
+        "playrough",
+        "stealthrock",
+        "stoneedge",
+        "powerwhip"
+      ]
+    },
+    {
+      "species": "klinklang",
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "clearbody",
+      "movePool": [
+        "shiftgear",
+        "geargrind",
+        "wildcharge",
+        "substitute",
+        "protect",
+        "facade"
+      ]
+    },
+    {
+      "species": "golurk copper",
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "ironbarbs",
+      "movePool": [
+        "shadowpunch",
+        "earthquake",
+        "heavyslam",
+        "rockpolish",
+        "icepunch",
+        "firepunch"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "steelix",
+      "megaStone": "mega_showdown:steelixite"
+    },
+    {
+      "species": "scizor",
+      "megaStone": "mega_showdown:scizorite"
+    },
+    {
+      "species": "metagross",
+      "megaStone": "mega_showdown:metagrossite"
+    },
+    {
+      "species": "lucario",
+      "megaStone": "mega_showdown:lucarionite"
+    },
+    {
+      "species": "aggron",
+      "megaStone": "mega_showdown:aggronite"
+    },
+    {
+      "species": "mawile",
+      "megaStone": "mega_showdown:mawilite"
+    },
+    {
+      "species": "golurk copper",
+      "megaStone": "mega_showdown:copper_golurkite"
+    }
+  ]
+}

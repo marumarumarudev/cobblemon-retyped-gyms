@@ -1,0 +1,85 @@
+[
+  {
+    "species": "archaludon",
+    "gender": "GENDERLESS",
+    "nature": "bold",
+    "ability": "stamina",
+    "moves": [
+      "bodypress",
+      "flashcannon",
+      "stealthrock",
+      "thunderwave"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "goodra",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "gooey",
+    "moves": [
+      "heavyslam",
+      "knockoff",
+      "dragontail",
+      "protect"
+    ],
+    "heldItem": "leftovers",
+    "aspects": [
+      "hisuian"
+    ]
+  },
+  {
+    "species": "garchomp",
+    "gender": "MALE",
+    "nature": "naive",
+    "ability": "roughskin",
+    "moves": [
+      "spikes",
+      "dracometeor",
+      "fireblast",
+      "earthquake"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "roaringmoon",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "protosynthesis",
+    "moves": [
+      "outrage",
+      "knockoff",
+      "earthquake",
+      "uturn"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "dracotar",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "moldbreaker",
+    "moves": [
+      "leechlife",
+      "outrage",
+      "swordsdance",
+      "earthquake"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "charizard",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "enderize",
+    "moves": [
+      "flamethrower",
+      "dragonpulse",
+      "psychic",
+      "darkpulse"
+    ],
+    "heldItem": "mega_showdown:charizardite_z",
+    "shiny": true,
+    "mega": true
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "type": "bug",
+  "pokemon": [
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flamebody",
+      "movePool": [
+        "fierydance",
+        "bugbuzz",
+        "quiverdance",
+        "heatwave",
+        "psychic",
+        "gigadrain"
+      ]
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "moxie",
+      "movePool": [
+        "closecombat",
+        "megahorn",
+        "knockoff",
+        "swordsdance",
+        "rockblast",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "scizor",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "movePool": [
+        "bulletpunch",
+        "swordsdance",
+        "uturn",
+        "closecombat",
+        "roost",
+        "dualwingbeat"
+      ]
+    },
+    {
+      "species": "beedrill",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "movePool": [
+        "poisonjab",
+        "xscissor",
+        "drillrun",
+        "swordsdance",
+        "uturn",
+        "fellstinger"
+      ]
+    },
+    {
+      "species": "pinsir",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "movePool": [
+        "closecombat",
+        "xscissor",
+        "swordsdance",
+        "stealthrock",
+        "earthquake",
+        "stoneedge"
+      ]
+    },
+    {
+      "species": "yanmega",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "speedboost",
+      "movePool": [
+        "airslash",
+        "bugbuzz",
+        "psychic",
+        "shadowball",
+        "ancientpower",
+        "roost"
+      ]
+    },
+    {
+      "species": "araquanid",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "waterbubble",
+      "movePool": [
+        "liquidation",
+        "leechlife",
+        "fellstinger",
+        "lunge",
+        "icefang",
+        "poisonjab"
+      ]
+    },
+    {
+      "species": "vikavolt",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "movePool": [
+        "thunderbolt",
+        "bugbuzz",
+        "voltswitch",
+        "energyball",
+        "flashcannon",
+        "roost"
+      ]
+    },
+    {
+      "species": "galvantula",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "movePool": [
+        "thunder",
+        "bugbuzz",
+        "voltswitch",
+        "energyball",
+        "stickyweb",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "scolipede",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "movePool": [
+        "megahorn",
+        "poisonjab",
+        "earthquake",
+        "swordsdance",
+        "rockslide",
+        "spikes"
+      ]
+    },
+    {
+      "species": "forretress",
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "movePool": [
+        "spikes",
+        "stealthrock",
+        "voltswitch",
+        "heavyslam",
+        "rapidspin",
+        "toxic"
+      ]
+    },
+    {
+      "species": "ribombee",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shielddust",
+      "movePool": [
+        "moonblast",
+        "bugbuzz",
+        "quiverdance",
+        "dazzlinggleam",
+        "stunspore",
+        "roost"
+      ]
+    },
+    {
+      "species": "centiskorch",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "movePool": [
+        "leechlife",
+        "flareblitz",
+        "coil",
+        "crunch",
+        "knockoff",
+        "powerwhip"
+      ]
+    },
+    {
+      "species": "leavanny clockwork",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "movePool": [
+        "swordsdance",
+        "xscissor",
+        "leafblade",
+        "closecombat",
+        "shadowclaw",
+        "return"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "heracross",
+      "megaStone": "mega_showdown:heracronite"
+    },
+    {
+      "species": "beedrill",
+      "megaStone": "mega_showdown:beedrillite"
+    },
+    {
+      "species": "scizor",
+      "megaStone": "mega_showdown:scizorite"
+    },
+    {
+      "species": "pinsir",
+      "megaStone": "mega_showdown:pinsirite"
+    },
+    {
+      "species": "leavanny clockwork",
+      "megaStone": "mega_showdown:clockworkleavannite"
+    },
+    {
+      "species": "scolipede",
+      "megaStone": "zamega:scolipite"
+    }
+  ]
+}

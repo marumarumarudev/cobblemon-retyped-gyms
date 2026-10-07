@@ -1,0 +1,84 @@
+[
+  {
+    "species": "volcarona",
+    "gender": "MALE",
+    "nature": "nature",
+    "ability": "flamebody",
+    "moves": [
+      "quieverdance",
+      "fireblast",
+      "gigadrain",
+      "bugbuzz"
+    ],
+    "heldItem": "mega_showdown:firium_z"
+  },
+  {
+    "species": "heracross",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "moxie",
+    "moves": [
+      "closecombat",
+      "megahorn",
+      "stoneedge",
+      "pursuit"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "galvantula",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "compoundeyes",
+    "moves": [
+      "thunder",
+      "stickyweb",
+      "bugbuzz",
+      "energyball"
+    ],
+    "heldItem": "focus_sash",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "armaldo",
+    "gender": "FEMALE",
+    "nature": "careful",
+    "ability": "battlearmor",
+    "moves": [
+      "stealthrock",
+      "stoneedge",
+      "rapidspin",
+      "knockoff"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "araquanid",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "waterbubble",
+    "moves": [
+      "liquidation",
+      "scald",
+      "leechlife",
+      "mirrorcoat"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "scizor",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "technician",
+    "moves": [
+      "swordsdance",
+      "bugbite",
+      "bulletpunch",
+      "superpower"
+    ],
+    "heldItem": "mega_showdown:scizorite",
+    "shiny": true,
+    "mega": true
+  }
+]

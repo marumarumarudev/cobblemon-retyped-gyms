@@ -1,0 +1,82 @@
+[
+  {
+    "species": "ironjugulis",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "darkpulse",
+      "airslash",
+      "hurricane",
+      "nastyplot"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "charizard",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "solarpower",
+    "moves": [
+      "flamethrower",
+      "dragonpulse",
+      "solarbeam",
+      "airslash"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "aerodactyl",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "unnerve",
+    "moves": [
+      "rockslide",
+      "tailwind",
+      "dualwingbeat",
+      "protect"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "togekiss",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "competitive",
+    "moves": [
+      "nastyplot",
+      "airslash",
+      "aurasphere",
+      "roost"
+    ],
+    "heldItem": "mega_showdown:fightinium_z"
+  },
+  {
+    "species": "gliscor",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "poisonheal",
+    "moves": [
+      "earthquake",
+      "acrobatics",
+      "swordsdance",
+      "roost"
+    ],
+    "heldItem": "toxic_orb"
+  },
+  {
+    "species": "skarmory",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "sturdy",
+    "moves": [
+      "bravebird",
+      "ironhead",
+      "stealthrock",
+      "roost"
+    ],
+    "heldItem": "zamega:skarmorite",
+    "shiny": true,
+    "mega": true
+  }
+]

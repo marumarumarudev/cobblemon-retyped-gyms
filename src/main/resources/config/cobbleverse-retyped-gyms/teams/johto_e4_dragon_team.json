@@ -1,0 +1,87 @@
+[
+  {
+    "species": "salamarine",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "sniper",
+    "moves": [
+      "flamethrower",
+      "surf",
+      "dracometeor",
+      "dragonpulse"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "spinaga",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "colourchange",
+    "moves": [
+      "dracometeor",
+      "chloroblast",
+      "energyball",
+      "nastyplot"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "drakoceros",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "fluffy",
+    "moves": [
+      "poisonjab",
+      "headlongrush",
+      "outrage",
+      "lunge"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "equirin",
+    "gender": "FEMALE",
+    "nature": "calm",
+    "ability": "magicbounce",
+    "moves": [
+      "dragonpulse",
+      "calmmind",
+      "miraclemist",
+      "psychic"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "tinkaton",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "sharpness",
+    "moves": [
+      "sacredsword",
+      "gigatonexcalibur",
+      "gigatonhammer",
+      "playrough"
+    ],
+    "heldItem": "choice_band",
+    "aspects": [
+      "dragonic"
+    ]
+  },
+  {
+    "species": "garchomp",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "roughskin",
+    "moves": [
+      "swordsdance",
+      "earthquake",
+      "outrage",
+      "firefang"
+    ],
+    "heldItem": "mega_showdown:garchompite",
+    "shiny": true,
+    "mega": true
+  }
+]

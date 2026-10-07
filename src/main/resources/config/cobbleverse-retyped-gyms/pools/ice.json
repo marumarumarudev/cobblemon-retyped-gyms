@@ -1,0 +1,229 @@
+{
+  "type": "ice",
+  "pokemon": [
+    {
+      "species": "glalie",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "movePool": [
+        "doubleedge",
+        "explosion",
+        "earthquake",
+        "spikes",
+        "crunch",
+        "iceshard"
+      ]
+    },
+    {
+      "species": "abomasnow",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "snowwarning",
+      "movePool": [
+        "blizzard",
+        "woodhammer",
+        "gigadrain",
+        "icebeam",
+        "earthquake",
+        "iceshard"
+      ]
+    },
+    {
+      "species": "lapras",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "movePool": [
+        "freezedry",
+        "hydropump",
+        "icebeam",
+        "thunderbolt",
+        "sparklingaria",
+        "perishsong"
+      ]
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "movePool": [
+        "iciclecrash",
+        "earthquake",
+        "iceshard",
+        "stealthrock",
+        "knockoff",
+        "stoneedge"
+      ]
+    },
+    {
+      "species": "weavile",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "movePool": [
+        "tripleaxel",
+        "knockoff",
+        "iceshard",
+        "swordsdance",
+        "poisonjab",
+        "lowkick"
+      ]
+    },
+    {
+      "species": "glaceon",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "snowcloak",
+      "movePool": [
+        "blizzard",
+        "freezedry",
+        "shadowball",
+        "icebeam",
+        "faketears",
+        "protect"
+      ]
+    },
+    {
+      "species": "cloyster",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "movePool": [
+        "iciclespear",
+        "rockblast",
+        "shellsmash",
+        "liquidation",
+        "iceshard",
+        "hydropump"
+      ]
+    },
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "movePool": [
+        "shadowball",
+        "icebeam",
+        "spikes",
+        "destinybond",
+        "taunt",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "walrein",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "movePool": [
+        "surf",
+        "icebeam",
+        "toxic",
+        "protect",
+        "rest",
+        "sleeptalk"
+      ]
+    },
+    {
+      "species": "beartic",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "slushrush",
+      "movePool": [
+        "iciclecrash",
+        "superpower",
+        "aquajet",
+        "swordsdance",
+        "playrough",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "cryogonal",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "movePool": [
+        "icebeam",
+        "freezedry",
+        "rapidspin",
+        "recover",
+        "flashcannon",
+        "knockoff"
+      ]
+    },
+    {
+      "species": "avalugg",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "movePool": [
+        "avalanche",
+        "rapidspin",
+        "recover",
+        "bodypress",
+        "earthquake",
+        "gyroball"
+      ]
+    },
+    {
+      "species": "frosmoth",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "icescales",
+      "movePool": [
+        "quiverdance",
+        "icebeam",
+        "bugbuzz",
+        "gigadrain",
+        "hurricane",
+        "roost"
+      ]
+    },
+    {
+      "species": "cetitan",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "movePool": [
+        "iciclecrash",
+        "earthquake",
+        "bellydrum",
+        "iceshard",
+        "heavyslam",
+        "playrough"
+      ]
+    },
+    {
+      "species": "baxcalibur",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thermalexchange",
+      "movePool": [
+        "glaiverush",
+        "iciclecrash",
+        "dragondance",
+        "earthquake",
+        "iceshard",
+        "swordsdance"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "glalie",
+      "megaStone": "mega_showdown:glalitite"
+    },
+    {
+      "species": "abomasnow",
+      "megaStone": "mega_showdown:abomasite"
+    },
+    {
+      "species": "froslass",
+      "megaStone": "zamega:froslassite"
+    }
+  ]
+}

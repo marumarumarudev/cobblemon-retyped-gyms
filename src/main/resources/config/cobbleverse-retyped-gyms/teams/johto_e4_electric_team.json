@@ -1,0 +1,84 @@
+[
+  {
+    "species": "arctozolt",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "voltabsorb",
+    "moves": [
+      "boltbeak",
+      "blizzard",
+      "freezedry",
+      "substitute"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "lumintail",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "protosynthesis",
+    "moves": [
+      "luminbeam",
+      "tailglow",
+      "moonblast",
+      "sparklingaria"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "ironthorns",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "quarkdrive",
+    "moves": [
+      "wildcharge",
+      "rockblast",
+      "bodypress",
+      "icepunch"
+    ],
+    "heldItem": "electric_seed"
+  },
+  {
+    "species": "magnezone",
+    "gender": "GENDERLESS",
+    "nature": "calm",
+    "ability": "analytic",
+    "moves": [
+      "thunderbolt",
+      "flashcannon",
+      "voltswitch",
+      "terablast"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "dracozolt",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "hustle",
+    "moves": [
+      "boltbeak",
+      "aerialace",
+      "firefang",
+      "outrage"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "eelektross",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "levitate",
+    "moves": [
+      "voltswitch",
+      "gigadrain",
+      "flamethrower",
+      "thunderbolt"
+    ],
+    "heldItem": "mega_showdown:eelektrossite",
+    "shiny": true,
+    "mega": true
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "species": "hippowdon",
+    "gender": "MALE",
+    "nature": "impish",
+    "ability": "sandstream",
+    "moves": [
+      "earthquake",
+      "slackoff",
+      "stealthrock",
+      "whirlwind"
+    ],
+    "heldItem": "smooth_rock"
+  },
+  {
+    "species": "clodsire",
+    "gender": "FEMALE",
+    "nature": "careful",
+    "ability": "waterabsorb",
+    "moves": [
+      "earthquake",
+      "poisonjab",
+      "toxic",
+      "recover"
+    ],
+    "heldItem": "black_sludge"
+  },
+  {
+    "species": "excadrill",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "sandrush",
+    "moves": [
+      "earthquake",
+      "ironhead",
+      "poisonjab",
+      "rapidspin"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "garchomp",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "roughskin",
+    "moves": [
+      "scaleshot",
+      "earthquake",
+      "firefang",
+      "swordsdance"
+    ],
+    "heldItem": "loadeddice",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "mamoswine",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "thickfat",
+    "moves": [
+      "earthquake",
+      "iciclecrash",
+      "iceshard",
+      "knockoff"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "steelix",
+    "gender": "MALE",
+    "nature": "brave",
+    "ability": "sturdy",
+    "moves": [
+      "rockslide",
+      "irontail",
+      "earthquake",
+      "crunch"
+    ],
+    "heldItem": "mega_showdown:steelixite",
+    "shiny": true,
+    "mega": true
+  }
+]

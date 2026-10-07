@@ -1,0 +1,203 @@
+{
+  "name": {
+    "literal": "Erika"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "psyshock",
+        "surf",
+        "thunderbolt",
+        "recover"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "life_orb"
+      ],
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "timid",
+      "ability": "naturalcure"
+    },
+    {
+      "moveset": [
+        "meteormash",
+        "icepunch",
+        "earthquake",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_band"
+      ],
+      "species": "metagross",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "clearbody"
+    },
+    {
+      "moveset": [
+        "armorcanon",
+        "psychic",
+        "shadowball",
+        "flashcannon"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_specs"
+      ],
+      "species": "armarouge",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "modest",
+      "ability": "flashfire"
+    },
+    {
+      "moveset": [
+        "moonblast",
+        "psyshock",
+        "focusblast",
+        "willowisp"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_specs"
+      ],
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "trace"
+    },
+    {
+      "moveset": [
+        "lightthatburnsthesky",
+        "aeroblast",
+        "psychic",
+        "roost"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "mega_showdown:ultranecrozium_z"
+      ],
+      "species": "lugia",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "bold",
+      "ability": "multiscale"
+    },
+    {
+      "moveset": [
+        "superpower",
+        "knockoff",
+        "psychocut",
+        "substitute"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:malamarite"
+      ],
+      "shiny": true,
+      "species": "malamar",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "adamant",
+      "ability": "contrary",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "species": "glimmora",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "levitate",
+    "moves": [
+      "powergem",
+      "earthpower",
+      "energyball",
+      "sludgewave"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "ironmoth",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "fierydance",
+      "sludgewave",
+      "energyball",
+      "dazzlinggleam"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "roserade",
+    "gender": "FEMALE",
+    "nature": "calm",
+    "ability": "technician",
+    "moves": [
+      "energyball",
+      "sludgebomb",
+      "leafstorm",
+      "synthesis"
+    ],
+    "heldItem": "black_sludge",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "toxicmelody",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "protosynthesis",
+    "moves": [
+      "relicsong",
+      "freezingglare",
+      "dracometeor",
+      "sludgebomb"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "nurumone",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "toughclaws",
+    "moves": [
+      "recover",
+      "wildcharge",
+      "direclaw",
+      "aquatail"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "scolipede",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "speedboost",
+    "moves": [
+      "swordsdance",
+      "megahorn",
+      "earthquake",
+      "poisontail"
+    ],
+    "heldItem": "mega_showdown:scolipedite",
+    "shiny": true,
+    "mega": true
+  }
+]

@@ -1,0 +1,251 @@
+{
+  "type": "fire",
+  "pokemon": [
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "solarpower",
+      "movePool": [
+        "flamethrower",
+        "airslash",
+        "solarbeam",
+        "focusblast",
+        "roost",
+        "dragonpulse"
+      ]
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "movePool": [
+        "flareblitz",
+        "closecombat",
+        "swordsdance",
+        "protect",
+        "stoneedge",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "houndoom",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "movePool": [
+        "darkpulse",
+        "flamethrower",
+        "nastyplot",
+        "sludgebomb",
+        "willowisp",
+        "suckerpunch"
+      ]
+    },
+    {
+      "species": "camerupt",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "solidrock",
+      "movePool": [
+        "fireblast",
+        "earthpower",
+        "ancientpower",
+        "stealthrock",
+        "eruption",
+        "flashcannon"
+      ]
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "movePool": [
+        "flareblitz",
+        "extremespeed",
+        "willowisp",
+        "morningsun",
+        "closecombat",
+        "wildcharge"
+      ]
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flamebody",
+      "movePool": [
+        "fierydance",
+        "bugbuzz",
+        "quiverdance",
+        "gigadrain",
+        "psychic",
+        "roost"
+      ]
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "movePool": [
+        "shadowball",
+        "flamethrower",
+        "energyball",
+        "calmmind",
+        "willowisp",
+        "trick"
+      ]
+    },
+    {
+      "species": "torkoal",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "drought",
+      "movePool": [
+        "lavaplume",
+        "rapidspin",
+        "stealthrock",
+        "yawn",
+        "bodypress",
+        "earthpower"
+      ]
+    },
+    {
+      "species": "infernape",
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "ironfist",
+      "movePool": [
+        "closecombat",
+        "flareblitz",
+        "thunderpunch",
+        "uturn",
+        "machpunch",
+        "stoneedge"
+      ]
+    },
+    {
+      "species": "darmanitan",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "movePool": [
+        "flareblitz",
+        "earthquake",
+        "rockslide",
+        "uturn",
+        "superpower",
+        "firepunch"
+      ]
+    },
+    {
+      "species": "incineroar",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "intimidate",
+      "movePool": [
+        "flareblitz",
+        "knockoff",
+        "uturn",
+        "fakeout",
+        "partingshot",
+        "closecombat"
+      ]
+    },
+    {
+      "species": "skeledirge",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "unaware",
+      "movePool": [
+        "torchsong",
+        "shadowball",
+        "slackoff",
+        "willowisp",
+        "earthpower",
+        "hex"
+      ]
+    },
+    {
+      "species": "talonflame",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "galewings",
+      "movePool": [
+        "bravebird",
+        "flareblitz",
+        "roost",
+        "uturn",
+        "swordsdance",
+        "tailwind"
+      ]
+    },
+    {
+      "species": "centiskorch",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "movePool": [
+        "leechlife",
+        "flareblitz",
+        "coil",
+        "crunch",
+        "knockoff",
+        "powerwhip"
+      ]
+    },
+    {
+      "species": "magmortar",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "movePool": [
+        "fireblast",
+        "thunderbolt",
+        "focusblast",
+        "psychic",
+        "gigadrain",
+        "machpunch"
+      ]
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "movePool": [
+        "eruption",
+        "flamethrower",
+        "focusblast",
+        "extrasensory",
+        "shadowball",
+        "scorchingsands"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "charizard",
+      "megaStone": "mega_showdown:charizardite_y"
+    },
+    {
+      "species": "blaziken",
+      "megaStone": "mega_showdown:blazikenite"
+    },
+    {
+      "species": "houndoom",
+      "megaStone": "mega_showdown:houndoominite"
+    },
+    {
+      "species": "camerupt",
+      "megaStone": "mega_showdown:cameruptite"
+    },
+    {
+      "species": "chandelure",
+      "megaStone": "zamega:chandelurite"
+    }
+  ]
+}

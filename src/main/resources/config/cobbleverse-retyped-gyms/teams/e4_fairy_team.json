@@ -1,0 +1,85 @@
+[
+  {
+    "species": "screamtail",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "protosynthesis",
+    "moves": [
+      "storedpower",
+      "calmmind",
+      "dazzlinggleam",
+      "wish"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "blizzibeth",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "snowcloak",
+    "moves": [
+      "moonblast",
+      "blizzard",
+      "icebeam",
+      "calmmind"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "solafae",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "blaze",
+    "moves": [
+      "moonblast",
+      "fierydance",
+      "psychic",
+      "nastyplot"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "ironvaliant",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "quarkdrive",
+    "moves": [
+      "twinkletackle",
+      "moonblast",
+      "closecombat",
+      "swordsdance"
+    ],
+    "heldItem": "mega_showdown:fairium_z"
+  },
+  {
+    "species": "zacian",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "intrepidsword",
+    "moves": [
+      "behemothblade",
+      "playrough",
+      "closecombat",
+      "wildcharge"
+    ],
+    "heldItem": "mega_showdown:rusted_sword",
+    "aspects": [
+      "crowned"
+    ]
+  },
+  {
+    "species": "clefable",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "magicguard",
+    "moves": [
+      "moonblast",
+      "softboiled",
+      "calmmind",
+      "flamethrower"
+    ],
+    "heldItem": "zamega:clefablite",
+    "shiny": true,
+    "mega": true
+  }
+]

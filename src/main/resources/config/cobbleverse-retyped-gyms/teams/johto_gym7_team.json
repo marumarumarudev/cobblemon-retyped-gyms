@@ -1,0 +1,87 @@
+[
+  {
+    "species": "lunage",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "unaware",
+    "moves": [
+      "gigadrain",
+      "wish",
+      "moonblast",
+      "psychic"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "ironvaliant",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "quarkdrive",
+    "moves": [
+      "feyblade",
+      "closecombat",
+      "knockoff",
+      "leafblade"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "sugareign",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "queenlymajesty",
+    "moves": [
+      "sparklyswirl",
+      "bugbuzz",
+      "moonblast",
+      "psychic"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "ectomancer",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "magician",
+    "moves": [
+      "eeriespell",
+      "sludgewave",
+      "shadowball",
+      "moonblast"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "ironvictory",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "searingshot",
+      "victorysear",
+      "moonlight",
+      "moonblast"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "gardevoir",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "trace",
+    "moves": [
+      "moonblast",
+      "psychic",
+      "vitaldrain",
+      "nightlight"
+    ],
+    "heldItem": "mega_showdown:gardevoirite",
+    "aspects": [
+      "goth"
+    ],
+    "shiny": true,
+    "mega": true
+  }
+]

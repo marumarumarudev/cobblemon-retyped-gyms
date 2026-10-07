@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "cobbleverse-retyped-gyms",
+  "version": "${version}",
+  "name": "Cobbleverse Retyped Gyms",
+  "description": "Randomizes Kanto, Johto and Hoenn Gym Leaders + Elite Four with type-themed competitive teams each server start. Includes legendary/mythical ban in gym battles, raid boss support, welcome screen and spawn reveal effects. Soft-depends on Cobblemon + RCT.",
+  "authors": [
+    "Antigravity",
+    "zmoonmaru"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.cobbleverse.retypedgyms.RetypedGyms"
+    ],
+    "client": [
+      "com.cobbleverse.retypedgyms.client.RetypedGymsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "cobblemon": "*",
+    "rctmod": "*"
+  }
+}

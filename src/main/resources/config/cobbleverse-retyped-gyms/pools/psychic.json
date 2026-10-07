@@ -1,0 +1,273 @@
+{
+  "type": "psychic",
+  "pokemon": [
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "movePool": [
+        "psychic",
+        "psyshock",
+        "focusblast",
+        "shadowball",
+        "calmmind",
+        "nastyplot"
+      ]
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "trace",
+      "movePool": [
+        "psychic",
+        "moonblast",
+        "shadowball",
+        "calmmind",
+        "mysticalfire",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sharpness",
+      "movePool": [
+        "psychocut",
+        "sacredsword",
+        "swordsdance",
+        "knockoff",
+        "shadowsneak",
+        "leafblade"
+      ]
+    },
+    {
+      "species": "metagross",
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "clearbody",
+      "movePool": [
+        "meteormash",
+        "zenheadbutt",
+        "bulletpunch",
+        "earthquake",
+        "agility",
+        "icepunch"
+      ]
+    },
+    {
+      "species": "slowbro",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "movePool": [
+        "scald",
+        "psyshock",
+        "slackoff",
+        "calmmind",
+        "icebeam",
+        "teleport"
+      ]
+    },
+    {
+      "species": "medicham",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "movePool": [
+        "highjumpkick",
+        "zenheadbutt",
+        "fakeout",
+        "icepunch",
+        "thunderpunch",
+        "bulletpunch"
+      ]
+    },
+    {
+      "species": "espeon",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicbounce",
+      "movePool": [
+        "psychic",
+        "dazzlinggleam",
+        "shadowball",
+        "morningsun",
+        "calmmind",
+        "trick"
+      ]
+    },
+    {
+      "species": "reuniclus",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "magicguard",
+      "movePool": [
+        "psychic",
+        "focusblast",
+        "recover",
+        "calmmind",
+        "shadowball",
+        "trickroom"
+      ]
+    },
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "analytic",
+      "movePool": [
+        "hydropump",
+        "psyshock",
+        "icebeam",
+        "thunderbolt",
+        "recover",
+        "rapidspin"
+      ]
+    },
+    {
+      "species": "delphox",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "movePool": [
+        "fireblast",
+        "psychic",
+        "shadowball",
+        "calmmind",
+        "grassknot",
+        "mysticalfire"
+      ]
+    },
+    {
+      "species": "slowking",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "regenerator",
+      "movePool": [
+        "scald",
+        "psyshock",
+        "slackoff",
+        "nastyplot",
+        "flamethrower",
+        "icebeam"
+      ]
+    },
+    {
+      "species": "malamar",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "contrary",
+      "movePool": [
+        "superpower",
+        "knockoff",
+        "psychocut",
+        "topsyturvy",
+        "rest",
+        "sleeptalk"
+      ]
+    },
+    {
+      "species": "hatterene",
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "magicbounce",
+      "movePool": [
+        "psychic",
+        "dazzlinggleam",
+        "mysticalfire",
+        "trickroom",
+        "calmmind",
+        "shadowball"
+      ]
+    },
+    {
+      "species": "armarouge",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flashfire",
+      "movePool": [
+        "armorcannon",
+        "expandingforce",
+        "energyball",
+        "calmmind",
+        "destinybond",
+        "flamethrower"
+      ]
+    },
+    {
+      "species": "gothitelle",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "shadowtag",
+      "movePool": [
+        "psychic",
+        "thunderbolt",
+        "rest",
+        "calmmind",
+        "trick",
+        "protect"
+      ]
+    },
+    {
+      "species": "bronzong",
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "levitate",
+      "movePool": [
+        "psychic",
+        "gyroball",
+        "stealthrock",
+        "hypnosis",
+        "irondefense",
+        "calmmind"
+      ]
+    },
+    {
+      "species": "starstellation",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "analytic",
+      "movePool": [
+        "flashcannon",
+        "psychic",
+        "moonblast",
+        "powergem",
+        "starshower",
+        "cosmicpower"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "alakazam",
+      "megaStone": "mega_showdown:alakazite"
+    },
+    {
+      "species": "gardevoir",
+      "megaStone": "mega_showdown:gardevoirite"
+    },
+    {
+      "species": "gallade",
+      "megaStone": "mega_showdown:galladite"
+    },
+    {
+      "species": "metagross",
+      "megaStone": "mega_showdown:metagrossite"
+    },
+    {
+      "species": "slowbro",
+      "megaStone": "mega_showdown:slowbronite"
+    },
+    {
+      "species": "medicham",
+      "megaStone": "mega_showdown:medichamite"
+    },
+    {
+      "species": "starstellation",
+      "megaStone": "mega_showdown:starstellarite"
+    }
+  ]
+}

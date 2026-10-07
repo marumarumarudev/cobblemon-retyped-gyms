@@ -1,0 +1,84 @@
+[
+  {
+    "species": "flapestry",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "sandstream",
+    "moves": [
+      "heatwave",
+      "airslash",
+      "earthpower",
+      "hurricane"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "bowldozer",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "sandrush",
+    "moves": [
+      "spinout",
+      "stoneedge",
+      "earthquake",
+      "superpower"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "sandyshocks",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "protosynthesis",
+    "moves": [
+      "shortcircuit",
+      "dustdevil",
+      "earthpower",
+      "stasisbeam"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "irontreads",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "quarkdrive",
+    "moves": [
+      "ironhead",
+      "wildcharge",
+      "earthquake",
+      "megahorn"
+    ],
+    "heldItem": "electric_seed",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "krookodile",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "angerpoint",
+    "moves": [
+      "foulplay",
+      "powertrip",
+      "protect",
+      "earthquake"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "swampert",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "torrent",
+    "moves": [
+      "icepunch",
+      "earthquake",
+      "wavecrash",
+      "hammerarm"
+    ],
+    "heldItem": "mega_showdown:swampertite",
+    "shiny": true,
+    "mega": true
+  }
+]

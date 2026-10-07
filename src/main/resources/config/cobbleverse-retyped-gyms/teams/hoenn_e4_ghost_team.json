@@ -1,0 +1,82 @@
+[
+  {
+    "species": "gholdengo",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "goodasgold",
+    "moves": [
+      "nastyplot",
+      "shadowball",
+      "recover",
+      "makeitrain"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "ceruledge",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "weakarmor",
+    "moves": [
+      "poltergeist",
+      "bitterblade",
+      "shadowsneak",
+      "swordsdance"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "fluttermane",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "protosynthesis",
+    "moves": [
+      "moonblast",
+      "shadowball",
+      "thunderbolt",
+      "powergem"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "dragapult",
+    "gender": "MALE",
+    "nature": "naive",
+    "ability": "infiltrator",
+    "moves": [
+      "dragondarts",
+      "shadowball",
+      "uturn",
+      "thunderwave"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "brambleghast",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "windrider",
+    "moves": [
+      "spikes",
+      "rapidspin",
+      "strengthsap",
+      "powerwhip"
+    ],
+    "heldItem": "rocky_helmet"
+  },
+  {
+    "species": "alloettevex",
+    "gender": "FEMALE",
+    "nature": "adamant",
+    "ability": "prankster",
+    "moves": [
+      "phantomblade",
+      "phantomforce",
+      "fly",
+      "swordsdance"
+    ],
+    "heldItem": "mega_showdown:alloettite_vex",
+    "shiny": true,
+    "mega": true
+  }
+]

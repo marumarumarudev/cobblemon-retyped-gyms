@@ -1,0 +1,82 @@
+[
+  {
+    "species": "pelipper",
+    "gender": "MALE",
+    "nature": "bold",
+    "ability": "drizzle",
+    "moves": [
+      "hurricane",
+      "roost",
+      "uturn",
+      "knockoff"
+    ],
+    "heldItem": "damp_rock"
+  },
+  {
+    "species": "tentacruel",
+    "gender": "MALE",
+    "nature": "impish",
+    "ability": "raindish",
+    "moves": [
+      "rapidspin",
+      "knockoff",
+      "poisonjab",
+      "flipturn"
+    ],
+    "heldItem": "black_sludge"
+  },
+  {
+    "species": "greninja",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "protean",
+    "moves": [
+      "darkpulse",
+      "icebeam",
+      "extrasensory",
+      "sludgewave"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "swampert",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "torrent",
+    "moves": [
+      "earthquake",
+      "flipturn",
+      "stealthrock",
+      "knockoff"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "barraskewda",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "swiftswim",
+    "moves": [
+      "liquidation",
+      "flipturn",
+      "closecombat",
+      "psychicfangs"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "feraligatr",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "dragonize",
+    "moves": [
+      "doubleedge",
+      "dragondance",
+      "liquidation",
+      "protect"
+    ],
+    "heldItem": "mega_showdown:feraligite",
+    "shiny": true,
+    "mega": true
+  }
+]

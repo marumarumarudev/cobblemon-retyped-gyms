@@ -1,0 +1,257 @@
+{
+  "type": "electric",
+  "pokemon": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "static",
+      "movePool": [
+        "thunderbolt",
+        "dragonpulse",
+        "focusblast",
+        "voltswitch",
+        "powergem",
+        "agility"
+      ]
+    },
+    {
+      "species": "manectric",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "movePool": [
+        "thunderbolt",
+        "flamethrower",
+        "voltswitch",
+        "overheat",
+        "shadowball",
+        "switcheroo"
+      ]
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "movePool": [
+        "volttackle",
+        "fakeout",
+        "brickbreak",
+        "irontail",
+        "nuzzle",
+        "knockoff"
+      ]
+    },
+    {
+      "species": "magnezone",
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "magnetpull",
+      "movePool": [
+        "thunderbolt",
+        "flashcannon",
+        "voltswitch",
+        "bodypress",
+        "triattack",
+        "irondefense"
+      ]
+    },
+    {
+      "species": "electivire",
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "motordrive",
+      "movePool": [
+        "wildcharge",
+        "crosschop",
+        "icepunch",
+        "earthquake",
+        "flamethrower",
+        "voltswitch"
+      ]
+    },
+    {
+      "species": "luxray",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "movePool": [
+        "wildcharge",
+        "crunch",
+        "icefang",
+        "superpower",
+        "voltswitch",
+        "psychicfangs"
+      ]
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "movePool": [
+        "thunderbolt",
+        "voltswitch",
+        "shadowball",
+        "calmmind",
+        "pinmissile",
+        "yawn"
+      ]
+    },
+    {
+      "species": "galvantula",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "movePool": [
+        "thunder",
+        "bugbuzz",
+        "stickyweb",
+        "energyball",
+        "voltswitch",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "vikavolt",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "movePool": [
+        "thunderbolt",
+        "bugbuzz",
+        "energyball",
+        "flashcannon",
+        "voltswitch",
+        "roost"
+      ]
+    },
+    {
+      "species": "heliolisk",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "dryskin",
+      "movePool": [
+        "thunderbolt",
+        "hypervoice",
+        "surf",
+        "focusblast",
+        "voltswitch",
+        "grassknot"
+      ]
+    },
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "punkrock",
+      "movePool": [
+        "overdrive",
+        "sludgebomb",
+        "boomburst",
+        "voltswitch",
+        "snarl",
+        "drainpunch"
+      ]
+    },
+    {
+      "species": "bellibolt",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "electromorphosis",
+      "movePool": [
+        "discharge",
+        "paraboliccharge",
+        "muddywater",
+        "slackoff",
+        "acidspray",
+        "chillingwater"
+      ]
+    },
+    {
+      "species": "kilowattrel",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "windpower",
+      "movePool": [
+        "thunderbolt",
+        "hurricane",
+        "voltswitch",
+        "roost",
+        "weatherball",
+        "tailwind"
+      ]
+    },
+    {
+      "species": "pawmot",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "movePool": [
+        "closecombat",
+        "doubleshock",
+        "machpunch",
+        "icepunch",
+        "fakeout",
+        "drainpunch"
+      ]
+    },
+    {
+      "species": "lanturn",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "movePool": [
+        "scald",
+        "discharge",
+        "icebeam",
+        "voltswitch",
+        "healbell",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "zebstrika",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "motordrive",
+      "movePool": [
+        "wildcharge",
+        "flareblitz",
+        "bounce",
+        "quickattack",
+        "doublekick",
+        "lowkick"
+      ]
+    },
+    {
+      "species": "eelektross",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "levitate",
+      "movePool": [
+        "wildcharge",
+        "crunch",
+        "flamethrower",
+        "aquatail",
+        "thunderwave",
+        "voltswitch"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "ampharos",
+      "megaStone": "mega_showdown:ampharosite"
+    },
+    {
+      "species": "manectric",
+      "megaStone": "mega_showdown:manectite"
+    },
+    {
+      "species": "eelektross",
+      "megaStone": "zamega:eelektrossite"
+    }
+  ]
+}

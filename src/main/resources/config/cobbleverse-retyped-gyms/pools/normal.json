@@ -1,0 +1,293 @@
+{
+  "type": "normal",
+  "pokemon": [
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "movePool": [
+        "fakeout",
+        "doubleedge",
+        "earthquake",
+        "suckerpunch",
+        "drainpunch",
+        "poweruppunch"
+      ]
+    },
+    {
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "limber",
+      "movePool": [
+        "return",
+        "highjumpkick",
+        "fakeout",
+        "quickattack",
+        "icepunch",
+        "uturn"
+      ]
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "thickfat",
+      "movePool": [
+        "bodyslam",
+        "crunch",
+        "earthquake",
+        "curse",
+        "rest",
+        "sleeptalk"
+      ]
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "movePool": [
+        "seismictoss",
+        "softboiled",
+        "thunderwave",
+        "toxic",
+        "stealthrock",
+        "shadowball"
+      ]
+    },
+    {
+      "species": "slaking",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "truant",
+      "movePool": [
+        "gigaimpact",
+        "earthquake",
+        "playrough",
+        "nightslash",
+        "hammerarm",
+        "slackoff"
+      ]
+    },
+    {
+      "species": "porygonz",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "adaptability",
+      "movePool": [
+        "triattack",
+        "shadowball",
+        "thunderbolt",
+        "icebeam",
+        "nastyplot",
+        "agility"
+      ]
+    },
+    {
+      "species": "staraptor",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "reckless",
+      "movePool": [
+        "doubleedge",
+        "bravebird",
+        "closecombat",
+        "uturn",
+        "quickattack",
+        "finalgambit"
+      ]
+    },
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "movePool": [
+        "bodyslam",
+        "earthquake",
+        "rockslide",
+        "closecombat",
+        "zenheadbutt",
+        "ironhead"
+      ]
+    },
+    {
+      "species": "miltank",
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "thickfat",
+      "movePool": [
+        "bodyslam",
+        "milkdrink",
+        "stealthrock",
+        "healbell",
+        "thunderwave",
+        "curse"
+      ]
+    },
+    {
+      "species": "bewear",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "fluffy",
+      "movePool": [
+        "doubleedge",
+        "hammerarm",
+        "drainpunch",
+        "darkestlariat",
+        "icepunch",
+        "swordsdance"
+      ]
+    },
+    {
+      "species": "braviary",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "movePool": [
+        "bodyslam",
+        "closecombat",
+        "roost",
+        "bravebird",
+        "bulkup",
+        "tailwind"
+      ]
+    },
+    {
+      "species": "diggersby",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "movePool": [
+        "earthquake",
+        "bodyslam",
+        "quickattack",
+        "swordsdance",
+        "firepunch",
+        "gunkshot"
+      ]
+    },
+    {
+      "species": "ursaring",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "movePool": [
+        "facade",
+        "closecombat",
+        "crunch",
+        "earthquake",
+        "swordsdance",
+        "firepunch"
+      ]
+    },
+    {
+      "species": "obstagoon",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "movePool": [
+        "facade",
+        "knockoff",
+        "closecombat",
+        "obstruct",
+        "switcheroo",
+        "partingshot"
+      ]
+    },
+    {
+      "species": "drampa",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "berserk",
+      "movePool": [
+        "hypervoice",
+        "dracometeor",
+        "flamethrower",
+        "roost",
+        "glare",
+        "icebeam"
+      ]
+    },
+    {
+      "species": "zangoose",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toxicboost",
+      "movePool": [
+        "facade",
+        "closecombat",
+        "knockoff",
+        "quickattack",
+        "swordsdance",
+        "shadowclaw"
+      ]
+    },
+    {
+      "species": "pidgeot",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "tangledfeet",
+      "movePool": [
+        "hurricane",
+        "heatwave",
+        "roost",
+        "uturn",
+        "defog",
+        "hypervoice"
+      ]
+    },
+    {
+      "species": "audino",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "regenerator",
+      "movePool": [
+        "dazzlinggleam",
+        "wish",
+        "protect",
+        "healbell",
+        "thunderwave",
+        "hypervoice"
+      ]
+    },
+    {
+      "species": "drampa",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "berserk",
+      "movePool": [
+        "hypervoice",
+        "dracometeor",
+        "flamethrower",
+        "icebeam",
+        "glare",
+        "roost"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "kangaskhan",
+      "megaStone": "mega_showdown:kangaskhanite"
+    },
+    {
+      "species": "lopunny",
+      "megaStone": "mega_showdown:lopunnite"
+    },
+    {
+      "species": "pidgeot",
+      "megaStone": "mega_showdown:pidgeotite"
+    },
+    {
+      "species": "audino",
+      "megaStone": "mega_showdown:audinite"
+    },
+    {
+      "species": "drampa",
+      "megaStone": "zamega:drampanite"
+    }
+  ]
+}

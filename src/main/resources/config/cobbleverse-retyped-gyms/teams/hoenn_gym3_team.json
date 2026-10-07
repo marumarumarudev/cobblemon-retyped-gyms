@@ -1,0 +1,84 @@
+[
+  {
+    "species": "archaludon",
+    "gender": "GENDERLESS",
+    "nature": "bold",
+    "ability": "sturdy",
+    "moves": [
+      "dracometeor",
+      "bodypress",
+      "stealthrock",
+      "mirrorcoat"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "irontreads",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "quarkdrive",
+    "moves": [
+      "icespinner",
+      "rapidspin",
+      "knockoff",
+      "earthquake"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "gholdengo",
+    "gender": "GENDERLESS",
+    "nature": "bold",
+    "ability": "goodasgold",
+    "moves": [
+      "makeitrain",
+      "shadowball",
+      "nastyplot",
+      "recover"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "bisharp",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "defiant",
+    "moves": [
+      "suckerpunch",
+      "throatchop",
+      "swordsdance",
+      "lowkick"
+    ],
+    "heldItem": "eviolite",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "skarmory",
+    "gender": "MALE",
+    "nature": "bold",
+    "ability": "sturdy",
+    "moves": [
+      "spikes",
+      "whirlwind",
+      "roost",
+      "bodypress"
+    ],
+    "heldItem": "rocky_helmet"
+  },
+  {
+    "species": "chimecho",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "levitate",
+    "moves": [
+      "flashcannon",
+      "psychicnoise",
+      "shadowball",
+      "thunderbolt"
+    ],
+    "heldItem": "mega_showdown:chimechite",
+    "shiny": true,
+    "mega": true
+  }
+]

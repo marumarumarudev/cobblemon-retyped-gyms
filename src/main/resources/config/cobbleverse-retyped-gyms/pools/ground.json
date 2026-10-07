@@ -1,0 +1,265 @@
+{
+  "type": "ground",
+  "pokemon": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "movePool": [
+        "earthquake",
+        "outrage",
+        "swordsdance",
+        "stoneedge",
+        "firefang",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "movePool": [
+        "earthquake",
+        "ironhead",
+        "bodypress",
+        "stealthrock",
+        "gyroball",
+        "curse"
+      ]
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "torrent",
+      "movePool": [
+        "earthquake",
+        "waterfall",
+        "stealthrock",
+        "icepunch",
+        "flipturn",
+        "yawn"
+      ]
+    },
+    {
+      "species": "camerupt",
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "solidrock",
+      "movePool": [
+        "fireblast",
+        "earthpower",
+        "stealthrock",
+        "ancientpower",
+        "solarbeam",
+        "eruption"
+      ]
+    },
+    {
+      "species": "rhyperior",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "solidrock",
+      "movePool": [
+        "earthquake",
+        "rockwrecker",
+        "stoneedge",
+        "megahorn",
+        "icepunch",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "gliscor",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "poisonheal",
+      "movePool": [
+        "earthquake",
+        "roost",
+        "toxic",
+        "swordsdance",
+        "facade",
+        "protect"
+      ]
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "movePool": [
+        "earthquake",
+        "iciclecrash",
+        "iceshard",
+        "knockoff",
+        "stealthrock",
+        "superpower"
+      ]
+    },
+    {
+      "species": "krookodile",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "movePool": [
+        "earthquake",
+        "crunch",
+        "knockoff",
+        "closecombat",
+        "stealthrock",
+        "stoneedge"
+      ]
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "movePool": [
+        "earthquake",
+        "ironhead",
+        "swordsdance",
+        "rockslide",
+        "rapidspin",
+        "stealthrock"
+      ]
+    },
+    {
+      "species": "hippowdon",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sandstream",
+      "movePool": [
+        "earthquake",
+        "slackoff",
+        "stealthrock",
+        "whirlwind",
+        "toxic",
+        "yawn"
+      ]
+    },
+    {
+      "species": "gastrodon",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "movePool": [
+        "earthpower",
+        "scald",
+        "recover",
+        "icebeam",
+        "toxic",
+        "clearsmog"
+      ]
+    },
+    {
+      "species": "donphan",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "movePool": [
+        "earthquake",
+        "rapidspin",
+        "iceshard",
+        "knockoff",
+        "stealthrock",
+        "playrough"
+      ]
+    },
+    {
+      "species": "flygon",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "levitate",
+      "movePool": [
+        "earthquake",
+        "dragonclaw",
+        "uturn",
+        "dragondance",
+        "firepunch",
+        "roost"
+      ]
+    },
+    {
+      "species": "mudsdale",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "stamina",
+      "movePool": [
+        "earthquake",
+        "bodypress",
+        "stealthrock",
+        "heavyslam",
+        "rest",
+        "sleeptalk"
+      ]
+    },
+    {
+      "species": "sandaconda",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "shedskin",
+      "movePool": [
+        "earthquake",
+        "coil",
+        "glare",
+        "rest",
+        "stoneedge",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "dugtrio",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "arenatrap",
+      "movePool": [
+        "earthquake",
+        "stoneedge",
+        "suckerpunch",
+        "memento",
+        "stealthrock",
+        "reversal"
+      ]
+    },
+    {
+      "species": "golisopede",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "emergencyexit",
+      "movePool": [
+        "earthquake",
+        "ironhead",
+        "swordsdance",
+        "heavyimpact",
+        "demolition",
+        "suckerpunch"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "garchomp",
+      "megaStone": "mega_showdown:garchompite"
+    },
+    {
+      "species": "steelix",
+      "megaStone": "mega_showdown:steelixite"
+    },
+    {
+      "species": "swampert",
+      "megaStone": "mega_showdown:swampertite"
+    },
+    {
+      "species": "camerupt",
+      "megaStone": "mega_showdown:cameruptite"
+    },
+    {
+      "species": "golisopede",
+      "megaStone": "mega_showdown:golisopedite"
+    }
+  ]
+}

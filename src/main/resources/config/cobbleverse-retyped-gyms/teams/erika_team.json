@@ -1,0 +1,84 @@
+[
+  {
+    "species": "starmie",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "naturalcure",
+    "moves": [
+      "psyshock",
+      "surf",
+      "thunderbolt",
+      "recover"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "metagross",
+    "gender": "GENDERLESS",
+    "nature": "sassy",
+    "ability": "clearbody",
+    "moves": [
+      "meteormash",
+      "zenheadbutt",
+      "earthquake",
+      "irondefense"
+    ],
+    "heldItem": "assault_vest",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "armarouge",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "flashfire",
+    "moves": [
+      "armorcanon",
+      "psychic",
+      "shadowball",
+      "flashcannon"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "gardevoir",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "trace",
+    "moves": [
+      "moonblast",
+      "psyshock",
+      "focusblast",
+      "willowisp"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "ironleaves",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "quickdrive",
+    "moves": [
+      "sworddance",
+      "leafblade",
+      "psyblade",
+      "closecombat"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "malamar",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "contrary",
+    "moves": [
+      "superpower",
+      "knockoff",
+      "psychocut",
+      "substitute"
+    ],
+    "heldItem": "zamega:malamarite",
+    "shiny": true,
+    "mega": true
+  }
+]

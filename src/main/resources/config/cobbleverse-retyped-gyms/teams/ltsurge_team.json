@@ -1,0 +1,87 @@
+[
+  {
+    "species": "staraptor",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "reckless",
+    "moves": [
+      "bravebird",
+      "closecombat",
+      "finalgambit",
+      "uturn"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "zoroark",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "illusion",
+    "moves": [
+      "shadowball",
+      "focusblast",
+      "grassknot",
+      "uturn"
+    ],
+    "heldItem": "choice_specs",
+    "aspects": [
+      "hisuian"
+    ]
+  },
+  {
+    "species": "ursaluna",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "guts",
+    "moves": [
+      "swordsdance",
+      "facade",
+      "headlongrush",
+      "firepunch"
+    ],
+    "heldItem": "flame_orb",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "blissey",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "naturalcure",
+    "moves": [
+      "stealthrock",
+      "softboiled",
+      "seismictoss",
+      "thunderwave"
+    ],
+    "heldItem": "heavy_duty_boots"
+  },
+  {
+    "species": "porygon2",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "trace",
+    "moves": [
+      "foulplay",
+      "icebeam",
+      "discharge",
+      "recover"
+    ],
+    "heldItem": "eviolite"
+  },
+  {
+    "species": "lopunny",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "limber",
+    "moves": [
+      "highjumpkick",
+      "poweruppunch",
+      "megakick",
+      "icepunch"
+    ],
+    "heldItem": "zamega:lopunnite",
+    "shiny": true,
+    "mega": true
+  }
+]

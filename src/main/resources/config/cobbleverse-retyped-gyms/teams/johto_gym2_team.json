@@ -1,0 +1,84 @@
+[
+  {
+    "species": "dragash",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "cursedbody",
+    "moves": [
+      "dracometeor",
+      "psychic",
+      "dragonpulse",
+      "shadowball"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "espilevi",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "magicbounce",
+    "moves": [
+      "psychic",
+      "hydropump",
+      "scald",
+      "shadowball"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "surisham",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "cloudnine",
+    "moves": [
+      "moonblast",
+      "psychic",
+      "earthpower",
+      "darkpulse"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "karoshicore",
+    "gender": "GENDERLESS",
+    "nature": "calm",
+    "ability": "comatose",
+    "moves": [
+      "slackoff",
+      "psychic",
+      "shadowball",
+      "darkpulse"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "ironcore",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "sparklingmist",
+      "malignantchain",
+      "psychic",
+      "nastyplot"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "delphox",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "magician",
+    "moves": [
+      "psychic",
+      "shadowball",
+      "mysticalfire",
+      "energyball"
+    ],
+    "heldItem": "mega_showdown:delphoxite",
+    "shiny": true,
+    "mega": true
+  }
+]

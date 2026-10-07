@@ -1,0 +1,82 @@
+[
+  {
+    "species": "indeedee",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "psychicsurge",
+    "moves": [
+      "expandingforce",
+      "dazzlinggleam",
+      "shadowball",
+      "healingwish"
+    ],
+    "heldItem": "terrainextender"
+  },
+  {
+    "species": "jesterama",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "prankster",
+    "moves": [
+      "psychic",
+      "moonblast",
+      "energyball",
+      "calmmind"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "hatterene",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "magicbounce",
+    "moves": [
+      "mysticalfire",
+      "drainingkiss",
+      "psyshock",
+      "calmmind"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "luminova",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "illuminate",
+    "moves": [
+      "flamethrower",
+      "psychic",
+      "shadowball",
+      "discharge"
+    ],
+    "heldItem": "eviolite"
+  },
+  {
+    "species": "ironcrown",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "tachyoncutter",
+      "psyshock",
+      "voltswitch",
+      "terablast"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "starmie",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "analytic",
+    "moves": [
+      "icespinner",
+      "liquidation",
+      "thunderbolt",
+      "zenheadbutt"
+    ],
+    "heldItem": "mega_showdown:starminite",
+    "shiny": true,
+    "mega": true
+  }
+]

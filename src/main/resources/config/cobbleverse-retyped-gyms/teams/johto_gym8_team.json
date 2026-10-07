@@ -1,0 +1,87 @@
+[
+  {
+    "species": "mielador",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "honeypot",
+    "moves": [
+      "gigaimpact",
+      "attackorder",
+      "skittersmack",
+      "playrough"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "zoroark",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "illusion",
+    "moves": [
+      "nastyplot",
+      "shadowball",
+      "hypervoice",
+      "flamethrower"
+    ],
+    "heldItem": "life_orb",
+    "aspects": [
+      "hisuian"
+    ]
+  },
+  {
+    "species": "farigiraf",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "armortail",
+    "moves": [
+      "dazzlinggleam",
+      "hypervoice",
+      "trickroom",
+      "protect"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "neuveon",
+    "gender": "GENDERLESS",
+    "nature": "calm",
+    "ability": "truecolors",
+    "moves": [
+      "dazzlinggleam",
+      "hypervoice",
+      "wish",
+      "hyperbeam"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "googaloothwomp",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "parentalbond",
+    "moves": [
+      "earthquake",
+      "stoneedge",
+      "closecombat",
+      "doublehit"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "drampa",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "cloudnine",
+    "moves": [
+      "dracometeor",
+      "hypervoice",
+      "flamethrower",
+      "energyball"
+    ],
+    "heldItem": "mega_showdown:drampite",
+    "shiny": true,
+    "mega": true
+  }
+]

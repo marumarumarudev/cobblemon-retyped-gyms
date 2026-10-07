@@ -1,0 +1,84 @@
+[
+  {
+    "species": "brutebonnet",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "protosynthesis",
+    "moves": [
+      "suckerpunch",
+      "seedbomb",
+      "ragepowder",
+      "spore"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "ironthorns",
+    "gender": "MALE",
+    "nature": "impish",
+    "ability": "quarkdrive",
+    "moves": [
+      "wildcharge",
+      "rockblast",
+      "bodypress",
+      "icepunch"
+    ],
+    "heldItem": "electric_seed"
+  },
+  {
+    "species": "arcaninehisuian",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "rockhead",
+    "moves": [
+      "headsmash",
+      "flareblitz",
+      "extremespeed",
+      "stealthrock"
+    ],
+    "heldItem": "heavy_duty_boots"
+  },
+  {
+    "species": "hydreigon",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "levitate",
+    "moves": [
+      "dracometeor",
+      "darkpulse",
+      "uturn",
+      "fireblast"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "garchomp",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "roughskin",
+    "moves": [
+      "swordsdance",
+      "earthquake",
+      "outrage",
+      "firefang"
+    ],
+    "heldItem": "mega_showdown:garchompite",
+    "shiny": true,
+    "mega": true
+  },
+  {
+    "species": "ironboulder",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "quarkdrive",
+    "moves": [
+      "swordsdance",
+      "mightycleave",
+      "earthquake",
+      "closecombat"
+    ],
+    "heldItem": "mega_showdown:booster_energy",
+    "shiny": true,
+    "mega": true
+  }
+]

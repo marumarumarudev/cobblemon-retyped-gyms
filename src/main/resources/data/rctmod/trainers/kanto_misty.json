@@ -1,0 +1,207 @@
+{
+  "name": {
+    "literal": "Misty"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "flamethrower",
+        "sludgewave",
+        "nastyplot",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "life_orb"
+      ],
+      "species": "salazzle",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "timid",
+      "ability": "corrosion"
+    },
+    {
+      "moveset": [
+        "flareblitz",
+        "leafblade",
+        "swordsdance",
+        "uturn"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_band"
+      ],
+      "species": "scovillain",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "moody"
+    },
+    {
+      "moveset": [
+        "searingsunrazesmash",
+        "heatwave",
+        "darkpulse",
+        "nastyplot"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "mega_showdown:solganium_z"
+      ],
+      "species": "chiyu",
+      "gender": "GENDERLESS",
+      "level": 44,
+      "nature": "modest",
+      "ability": "beadsofruin"
+    },
+    {
+      "moveset": [
+        "overheat",
+        "voltswitch",
+        "shadowball",
+        "willowisp"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "leftovers"
+      ],
+      "aspects": [
+        "heat-appliance",
+        "appliance=heat"
+      ],
+      "species": "rotom",
+      "gender": "GENDERLESS",
+      "level": 44,
+      "nature": "timid",
+      "ability": "levitate"
+    },
+    {
+      "moveset": [
+        "flareblitz",
+        "headsmash",
+        "earthquake",
+        "ironhead"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "species": "stalliava",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "flashfire"
+    },
+    {
+      "moveset": [
+        "shadowball",
+        "energyball",
+        "fireblast",
+        "flamethrower"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:chandelurite"
+      ],
+      "shiny": true,
+      "species": "chandelure",
+      "gender": "GENDERLESS",
+      "level": 44,
+      "nature": "modest",
+      "ability": "flashfire",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

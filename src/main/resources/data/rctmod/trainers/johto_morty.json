@@ -1,0 +1,202 @@
+{
+  "name": {
+    "literal": "Morty"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "earthquake",
+        "poweruppunch",
+        "fakeout",
+        "doubleedge"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "air_balloon"
+      ],
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "scrappy"
+    },
+    {
+      "moveset": [
+        "triattack",
+        "icebeam",
+        "shadowball",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "focus_sash"
+      ],
+      "species": "porygonz",
+      "gender": "GENDERLESS",
+      "level": 64,
+      "nature": "timid",
+      "ability": "adaptability"
+    },
+    {
+      "moveset": [
+        "shadowclaw",
+        "knockoff",
+        "closecombat",
+        "swordsdance"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "air_balloon"
+      ],
+      "species": "zangoose",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "toxicboost"
+    },
+    {
+      "moveset": [
+        "bravebird",
+        "roost",
+        "tailwind",
+        "bodyslam"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_specs"
+      ],
+      "species": "braviary",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "sheerforce"
+    },
+    {
+      "moveset": [
+        "quickattack",
+        "fakeout",
+        "uturn",
+        "icepunch"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "expert_belt"
+      ],
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "limber"
+    },
+    {
+      "moveset": [
+        "icebeam",
+        "glare",
+        "flamethrower",
+        "roost"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:drampanite"
+      ],
+      "species": "drampa",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "modest",
+      "ability": "berserk",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

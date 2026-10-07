@@ -1,0 +1,87 @@
+[
+  {
+    "species": "goodra",
+    "gender": "MALE",
+    "nature": "calm",
+    "ability": "shellarmor",
+    "moves": [
+      "ironhead",
+      "dragonpulse",
+      "shelter",
+      "thunderbolt"
+    ],
+    "heldItem": "leftovers",
+    "aspects": [
+      "hisuian"
+    ]
+  },
+  {
+    "species": "salamence",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "moxie",
+    "moves": [
+      "dragondance",
+      "outrage",
+      "earthquake",
+      "aerialace"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "gougingfire",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "protosynthesis",
+    "moves": [
+      "flareblitz",
+      "earthquake",
+      "stoneedge",
+      "terablast"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "kommoo",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "bulletproof",
+    "moves": [
+      "bodypress",
+      "closecombat",
+      "dragontail",
+      "stealthrock"
+    ],
+    "heldItem": "assault_vest",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "archaludon",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "stamina",
+    "moves": [
+      "flashcannon",
+      "dracometeor",
+      "bodypress",
+      "terablast"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "dragalge",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "adaptability",
+    "moves": [
+      "dracometeor",
+      "sludgebomb",
+      "dragonpulse",
+      "scald"
+    ],
+    "heldItem": "zamega:dragalgite",
+    "shiny": true,
+    "mega": true
+  }
+]

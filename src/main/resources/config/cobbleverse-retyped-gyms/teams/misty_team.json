@@ -1,0 +1,87 @@
+[
+  {
+    "species": "ninetales",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "drought",
+    "moves": [
+      "fireblast",
+      "solarbeam",
+      "willowisp",
+      "nastyplot"
+    ],
+    "heldItem": "heat_rock"
+  },
+  {
+    "species": "luminova",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "illuminate",
+    "moves": [
+      "moonblast",
+      "dazzlinggleam",
+      "calmmind",
+      "recover"
+    ],
+    "heldItem": "eviolite"
+  },
+  {
+    "species": "flareon",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "dragonsfury",
+    "moves": [
+      "dracoblazerush",
+      "flareblitz",
+      "earthquake",
+      "extremespeed"
+    ],
+    "heldItem": "choice_band",
+    "aspects": [
+      "kazeran"
+    ]
+  },
+  {
+    "species": "stalliava",
+    "gender": "MALE",
+    "nature": "impish",
+    "ability": "eartheater",
+    "moves": [
+      "flareblitz",
+      "earthquake",
+      "stealthrock",
+      "recover"
+    ],
+    "heldItem": "rocky_helmet",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "ironmoth",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "fierydance",
+      "sludgewave",
+      "energyball",
+      "dazzlinggleam"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "charizard",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "blaze",
+    "moves": [
+      "fireblast",
+      "earthquake",
+      "airslash",
+      "focusblast"
+    ],
+    "heldItem": "mega_showdown:charizardite_y",
+    "shiny": true,
+    "mega": true
+  }
+]

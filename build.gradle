@@ -1,0 +1,66 @@
+plugins {
+    id 'fabric-loom' version '1.9-SNAPSHOT'
+    id 'maven-publish'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+repositories {
+    maven { url = "https://maven.impactdev.net/repository/development/" }
+    maven { url = "https://api.modrinth.com/maven" }
+    mavenCentral()
+}
+
+loom {
+    // Standard setup. Source still contains intermediary names (class_XXX / method_XXX)
+    // from the decompilation. Gradle will sync; compile will fail until those
+    // names are replaced with Yarn names (or you temporarily comment the
+    // Minecraft-touching classes while you work on the pure-Java parts).
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+    implementation "com.google.code.gson:gson:2.11.0"
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 21
+}
+
+java {
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+jar {
+    from("LICENSE") {
+        rename { "${it}_${project.base.archivesName.get()}" }
+    }
+}
+
+publishing {
+    publications {
+        create("mavenJava", MavenPublication) {
+            artifactId = project.archives_base_name
+            from components.java
+        }
+    }
+    repositories {
+    }
+}

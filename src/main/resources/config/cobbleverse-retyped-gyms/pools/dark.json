@@ -1,0 +1,315 @@
+{
+  "type": "dark",
+  "pokemon": [
+    {
+      "species": "houndoom",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "movePool": [
+        "darkpulse",
+        "fireblast",
+        "nastyplot",
+        "sludgebomb",
+        "solarbeam",
+        "willowisp"
+      ]
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "movePool": [
+        "crunch",
+        "stoneedge",
+        "earthquake",
+        "dragondance",
+        "stealthrock",
+        "icepunch"
+      ]
+    },
+    {
+      "species": "absol",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "movePool": [
+        "knockoff",
+        "suckerpunch",
+        "playrough",
+        "swordsdance",
+        "closecombat",
+        "swordsdance"
+      ]
+    },
+    {
+      "species": "sharpedo",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "movePool": [
+        "crunch",
+        "waterfall",
+        "icefang",
+        "psychicfangs",
+        "protect",
+        "destinybond"
+      ]
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "movePool": [
+        "waterfall",
+        "crunch",
+        "dragondance",
+        "earthquake",
+        "icefang",
+        "bounce"
+      ]
+    },
+    {
+      "species": "sableye",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "prankster",
+      "movePool": [
+        "knockoff",
+        "recover",
+        "willowisp",
+        "foulplay",
+        "calmmind",
+        "taunt"
+      ]
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "movePool": [
+        "darkpulse",
+        "dracometeor",
+        "fireblast",
+        "nastyplot",
+        "roost",
+        "flashcannon"
+      ]
+    },
+    {
+      "species": "weavile",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "movePool": [
+        "knockoff",
+        "tripleaxel",
+        "iceshard",
+        "swordsdance",
+        "lowkick",
+        "poisonjab"
+      ]
+    },
+    {
+      "species": "bisharp",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "defiant",
+      "movePool": [
+        "ironhead",
+        "suckerpunch",
+        "knockoff",
+        "swordsdance",
+        "stealthrock",
+        "lowkick"
+      ]
+    },
+    {
+      "species": "krookodile",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "movePool": [
+        "earthquake",
+        "crunch",
+        "knockoff",
+        "closecombat",
+        "stealthrock",
+        "stoneedge"
+      ]
+    },
+    {
+      "species": "greninja",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "protean",
+      "movePool": [
+        "darkpulse",
+        "hydropump",
+        "icebeam",
+        "gunkshot",
+        "uturn",
+        "spikes"
+      ]
+    },
+    {
+      "species": "incineroar",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "intimidate",
+      "movePool": [
+        "knockoff",
+        "flareblitz",
+        "fakeout",
+        "partingshot",
+        "uturn",
+        "drainpunch"
+      ]
+    },
+    {
+      "species": "grimmsnarl",
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "prankster",
+      "movePool": [
+        "spiritbreak",
+        "reflect",
+        "lightscreen",
+        "thunderwave",
+        "taunt",
+        "playrough"
+      ]
+    },
+    {
+      "species": "umbreon",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "movePool": [
+        "foulplay",
+        "wish",
+        "protect",
+        "toxic",
+        "healbell",
+        "moonlight"
+      ]
+    },
+    {
+      "species": "zoroark",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "illusion",
+      "movePool": [
+        "darkpulse",
+        "flamethrower",
+        "sludgebomb",
+        "nastyplot",
+        "focusblast",
+        "uturn"
+      ]
+    },
+    {
+      "species": "honchkrow",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "moxie",
+      "movePool": [
+        "bravebird",
+        "suckerpunch",
+        "nightslash",
+        "roost",
+        "superpower",
+        "heatwave"
+      ]
+    },
+    {
+      "species": "pangoro",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "movePool": [
+        "knockoff",
+        "closecombat",
+        "drainpunch",
+        "gunkshot",
+        "icepunch",
+        "partingshot"
+      ]
+    },
+    {
+      "species": "mandibuzz",
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "overcoat",
+      "movePool": [
+        "foulplay",
+        "roost",
+        "defog",
+        "toxic",
+        "knockoff",
+        "uturn"
+      ]
+    },
+    {
+      "species": "drapion",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sniper",
+      "movePool": [
+        "poisonjab",
+        "knockoff",
+        "swordsdance",
+        "earthquake",
+        "crosspoison",
+        "aquatail"
+      ]
+    },
+    {
+      "species": "golisomite",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "voidwalker",
+      "movePool": [
+        "suckerpunch",
+        "zenheadbutt",
+        "spiraldrain",
+        "swordsdance",
+        "knockoff",
+        "phantomforce"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "houndoom",
+      "megaStone": "mega_showdown:houndoominite"
+    },
+    {
+      "species": "tyranitar",
+      "megaStone": "mega_showdown:tyranitarite"
+    },
+    {
+      "species": "absol",
+      "megaStone": "mega_showdown:absolite"
+    },
+    {
+      "species": "sharpedo",
+      "megaStone": "mega_showdown:sharpedonite"
+    },
+    {
+      "species": "gyarados",
+      "megaStone": "mega_showdown:gyaradosite"
+    },
+    {
+      "species": "sableye",
+      "megaStone": "mega_showdown:sablenite"
+    },
+    {
+      "species": "golisomite",
+      "megaStone": "mega_showdown:golisominite"
+    }
+  ]
+}

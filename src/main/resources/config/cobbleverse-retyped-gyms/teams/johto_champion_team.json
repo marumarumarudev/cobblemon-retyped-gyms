@@ -1,0 +1,82 @@
+[
+  {
+    "species": "hyrealis",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "dazzling",
+    "moves": [
+      "airslash",
+      "moonblast",
+      "roost",
+      "icebeam"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "ferrosleyer",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "strongjaw",
+    "moves": [
+      "thunderpunch",
+      "stoneedge",
+      "crunch",
+      "ironhead"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "berrock",
+    "gender": "GENDERLESS",
+    "nature": "calm",
+    "ability": "sturdy",
+    "moves": [
+      "earthpower",
+      "poltergeist",
+      "steelbeam",
+      "alluringvoice"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "turalyzer",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "dazzling",
+    "moves": [
+      "hydropump",
+      "thunderbolt",
+      "flashcannon",
+      "dazzlinggleam"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "skilisab",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "multiscale",
+    "moves": [
+      "poisonjab",
+      "outrage",
+      "dragondance",
+      "earthquake"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "dragonite",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "multiscale",
+    "moves": [
+      "extremespeed",
+      "nosedive",
+      "outrage",
+      "dragondance"
+    ],
+    "heldItem": "mega_showdown:dragonite_mega",
+    "shiny": true,
+    "mega": true
+  }
+]

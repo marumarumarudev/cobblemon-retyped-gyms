@@ -1,0 +1,87 @@
+[
+  {
+    "species": "funerun",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "rattled",
+    "moves": [
+      "phantomforce",
+      "headsmash",
+      "destinybond",
+      "suckerpunch"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "gloomshade",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "protosynthesis",
+    "moves": [
+      "shadowsneak",
+      "spectralmaul",
+      "spectralthief",
+      "closecombat"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "ceruledge",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "weakarmor",
+    "moves": [
+      "bitterblade",
+      "shadowsneak",
+      "closecombat",
+      "swordsdance"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "runerigus",
+    "gender": "GENDERLESS",
+    "nature": "impish",
+    "ability": "wanderingspirit",
+    "moves": [
+      "guardpress",
+      "destinybond",
+      "shadowclaw",
+      "earthquake"
+    ],
+    "heldItem": "leftovers",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "trevenant",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "deathblossom",
+    "moves": [
+      "playrough",
+      "hornleech",
+      "woodhammer",
+      "floralhealing"
+    ],
+    "heldItem": "choice_band",
+    "aspects": [
+      "blossom"
+    ]
+  },
+  {
+    "species": "gengar",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "cursedbody",
+    "moves": [
+      "sludgebomb",
+      "shadowball",
+      "substitute",
+      "willowisp"
+    ],
+    "heldItem": "mega_showdown:gengarite",
+    "shiny": true,
+    "mega": true
+  }
+]

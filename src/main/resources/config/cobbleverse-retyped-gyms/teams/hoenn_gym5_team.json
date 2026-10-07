@@ -1,0 +1,88 @@
+[
+  {
+    "species": "muk",
+    "gender": "GENDERLESS",
+    "nature": "careful",
+    "ability": "poisontouch",
+    "moves": [
+      "knockoff",
+      "drainpunch",
+      "poisonjab",
+      "protect"
+    ],
+    "heldItem": "black_sludge",
+    "aspects": [
+      "alolan"
+    ]
+  },
+  {
+    "species": "sneasler",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "unburden",
+    "moves": [
+      "swordsdance",
+      "closecombat",
+      "throatchop",
+      "acrobatics"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "slowking",
+    "gender": "MALE",
+    "nature": "sassy",
+    "ability": "regenerator",
+    "moves": [
+      "futuresight",
+      "sludgebomb",
+      "icebeam",
+      "flamethrower"
+    ],
+    "heldItem": "assault_vest",
+    "aspects": [
+      "galarian"
+    ]
+  },
+  {
+    "species": "clodsire",
+    "gender": "FEMALE",
+    "nature": "impish",
+    "ability": "unaware",
+    "moves": [
+      "earthquake",
+      "toxic",
+      "stealthrock",
+      "recover"
+    ],
+    "heldItem": "black_sludge"
+  },
+  {
+    "species": "ironmoth",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "flamethrower",
+      "overheat",
+      "energyball",
+      "discharge"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "venusaur",
+    "gender": "MALE",
+    "nature": "bold",
+    "ability": "thickfat",
+    "moves": [
+      "earthpower",
+      "leafstorm",
+      "sleeppowder",
+      "sludgebomb"
+    ],
+    "heldItem": "mega_showdown:venusaurite",
+    "shiny": true,
+    "mega": true
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "species": "clobabash",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "sturdy",
+    "moves": [
+      "stoneedge",
+      "superpower",
+      "earthquake",
+      "gyroball"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "buzzlex",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "levitate",
+    "moves": [
+      "uturn",
+      "leechlife",
+      "stoneedge",
+      "phantomforce"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "hallucerebra",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "neoroforce",
+    "moves": [
+      "meteorbeam",
+      "psychic",
+      "moonblast",
+      "futuresight"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "masquerjade",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "stormdrain",
+    "moves": [
+      "geomancy",
+      "meteorbeam",
+      "dazzlinggleam",
+      "flashcannon"
+    ],
+    "heldItem": "power_herb",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "spinarift",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "multiscale",
+    "moves": [
+      "hydropump",
+      "dragonpulse",
+      "ancientpower",
+      "downpour"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "glimmora",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "corrosion",
+    "moves": [
+      "powergem",
+      "earthpower",
+      "energyball",
+      "sludgewave"
+    ],
+    "heldItem": "mega_showdown:glimmoranite",
+    "shiny": true,
+    "mega": true
+  }
+]

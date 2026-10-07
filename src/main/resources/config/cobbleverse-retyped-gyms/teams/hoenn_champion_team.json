@@ -1,0 +1,82 @@
+[
+  {
+    "species": "sneasler",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "roughskin",
+    "moves": [
+      "closecombat",
+      "direclaw",
+      "protect",
+      "fakeout"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "gholdengo",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "goodasgold",
+    "moves": [
+      "shadowball",
+      "makeitrain",
+      "protect",
+      "nastyplot"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "milotic",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "competitive",
+    "moves": [
+      "scald",
+      "muddywater",
+      "recover",
+      "icebeam"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "meowscarada",
+    "gender": "FEMALE",
+    "nature": "adamant",
+    "ability": "protean",
+    "moves": [
+      "flowertrick",
+      "knockoff",
+      "tripleaxel",
+      "uturn"
+    ],
+    "heldItem": "choice_scarf"
+  },
+  {
+    "species": "delphox",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "blaze",
+    "moves": [
+      "heatwave",
+      "protect",
+      "psychic",
+      "dazzlinggleam"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "garchomp",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "roughskin",
+    "moves": [
+      "protect",
+      "powergem",
+      "dragonpulse",
+      "earthpower"
+    ],
+    "heldItem": "mega_showdown:garchompite_z",
+    "shiny": true,
+    "mega": true
+  }
+]

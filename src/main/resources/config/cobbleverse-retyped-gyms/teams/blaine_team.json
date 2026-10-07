@@ -1,0 +1,84 @@
+[
+  {
+    "species": "spiritube",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "levitate",
+    "moves": [
+      "shadowball",
+      "thunderbolt",
+      "voltswitch",
+      "nastyplot"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "electrode",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "static",
+    "moves": [
+      "thunderbolt",
+      "voltswitch",
+      "psychic",
+      "explosion"
+    ],
+    "heldItem": "mega_showdown:electrodite",
+    "shiny": true,
+    "mega": true
+  },
+  {
+    "species": "ragingbolt",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "protosynthesis",
+    "moves": [
+      "thunderclap",
+      "dracometeor",
+      "thunderbolt",
+      "voltswitch"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "sandyshocks",
+    "gender": "GENDERLESS",
+    "nature": "careful",
+    "ability": "protosynthesis",
+    "moves": [
+      "thunderbolt",
+      "spikes",
+      "voltswitch",
+      "stealthrock"
+    ],
+    "heldItem": "mega_showdown:booster_energy",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "anglerine",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "voltabsorb",
+    "moves": [
+      "thunderbolt",
+      "surf",
+      "10000000voltthunderbolt",
+      "icebeam"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "ironhands",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "quarkdrive",
+    "moves": [
+      "drainpunch",
+      "wildcharge",
+      "icepunch",
+      "earthquake"
+    ],
+    "heldItem": "assault_vest"
+  }
+]

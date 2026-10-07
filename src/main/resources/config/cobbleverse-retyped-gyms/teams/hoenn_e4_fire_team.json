@@ -1,0 +1,83 @@
+[
+  {
+    "species": "ninetales",
+    "gender": "FEMALE",
+    "nature": "timid",
+    "ability": "drought",
+    "moves": [
+      "weatherball",
+      "solarbeam",
+      "healingwish",
+      "encore"
+    ],
+    "heldItem": "heat_rock"
+  },
+  {
+    "species": "volcarona",
+    "gender": "MALE",
+    "nature": "modest",
+    "ability": "flamebody",
+    "moves": [
+      "quiverdance",
+      "flamethrower",
+      "psychic",
+      "morningsun"
+    ],
+    "heldItem": "heavydutyboots",
+    "shiny": true
+  },
+  {
+    "species": "cinderace",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "libero",
+    "moves": [
+      "highjumpkick",
+      "suckerpunch",
+      "courtchange",
+      "pyroball"
+    ],
+    "heldItem": "heavydutyboots"
+  },
+  {
+    "species": "ceruledge",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "weakarmor",
+    "moves": [
+      "swordsdance",
+      "poltergeist",
+      "bitterblade",
+      "shadowsneak"
+    ],
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "gougingfire",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "protosynthesis",
+    "moves": [
+      "heatcrash",
+      "breakingswipe",
+      "burningbulwark",
+      "earthquake"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "blaziken",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "speedboost",
+    "moves": [
+      "swordsdance",
+      "flareblitz",
+      "lowkick",
+      "stoneedge"
+    ],
+    "heldItem": "mega_showdown:blazikenite",
+    "shiny": true,
+    "mega": true
+  }
+]

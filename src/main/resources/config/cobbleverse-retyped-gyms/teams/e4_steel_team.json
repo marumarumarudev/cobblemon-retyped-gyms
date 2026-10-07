@@ -1,0 +1,82 @@
+[
+  {
+    "species": "ironcrown",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "corkscrewcrash",
+      "tachyoncutter",
+      "psychic",
+      "calmmind"
+    ],
+    "heldItem": "mega_showdown:steelium_z"
+  },
+  {
+    "species": "klinklang",
+    "gender": "GENDERLESS",
+    "nature": "jolly",
+    "ability": "clearbody",
+    "moves": [
+      "shiftgear",
+      "geargrind",
+      "wildcharge",
+      "substitute"
+    ],
+    "heldItem": "mega_showdown:klinklanite",
+    "shiny": true,
+    "mega": true
+  },
+  {
+    "species": "gholdengo",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "goodasgold",
+    "moves": [
+      "makeitrain",
+      "shadowball",
+      "powergem",
+      "thunderbolt"
+    ],
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "misteamie",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "steamengine",
+    "moves": [
+      "ironhead",
+      "surf",
+      "icepunch",
+      "flashcannon"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "irontreads",
+    "gender": "MALE",
+    "nature": "jolly",
+    "ability": "quarkdrive",
+    "moves": [
+      "stealthrock",
+      "earthquake",
+      "knockoff",
+      "rapidspin"
+    ],
+    "heldItem": "air_balloon"
+  },
+  {
+    "species": "magnezone",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "magnetpull",
+    "moves": [
+      "thunderbolt",
+      "flashcannon",
+      "voltswitch",
+      "magnetrise"
+    ],
+    "heldItem": "choice_specs"
+  }
+]

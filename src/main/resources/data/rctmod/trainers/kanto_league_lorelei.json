@@ -1,0 +1,206 @@
+{
+  "name": {
+    "literal": "Lorelei"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "moonblast",
+        "heatwave",
+        "roost",
+        "uturn"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "leftovers"
+      ],
+      "species": "fezandipiti",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "timid",
+      "ability": "poisonpuppeteer"
+    },
+    {
+      "moveset": [
+        "moonblast",
+        "blizzard",
+        "icebeam",
+        "calmmind"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "choice_specs"
+      ],
+      "species": "blizzibeth",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "modest",
+      "ability": "snowcloak"
+    },
+    {
+      "moveset": [
+        "moonblast",
+        "fierydance",
+        "psychic",
+        "nastyplot"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "focus_sash"
+      ],
+      "species": "solafae",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "modest",
+      "ability": "blaze"
+    },
+    {
+      "moveset": [
+        "twinkletackle",
+        "moonblast",
+        "closecombat",
+        "swordsdance"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "mega_showdown:fairium_z"
+      ],
+      "species": "ironvaliant",
+      "gender": "GENDERLESS",
+      "level": 95,
+      "nature": "jolly",
+      "ability": "quarkdrive"
+    },
+    {
+      "moveset": [
+        "behemothblade",
+        "playrough",
+        "closecombat",
+        "wildcharge"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "mega_showdown:rusted_sword"
+      ],
+      "aspects": [
+        "crowned"
+      ],
+      "species": "zacian",
+      "gender": "GENDERLESS",
+      "level": 95,
+      "nature": "jolly",
+      "ability": "intrepidsword"
+    },
+    {
+      "moveset": [
+        "moonblast",
+        "softboiled",
+        "calmmind",
+        "flamethrower"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:clefablite"
+      ],
+      "shiny": true,
+      "species": "clefable",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "bold",
+      "ability": "magicguard",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

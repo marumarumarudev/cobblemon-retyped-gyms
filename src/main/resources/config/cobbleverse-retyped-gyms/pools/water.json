@@ -1,0 +1,241 @@
+{
+  "type": "water",
+  "pokemon": [
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "movePool": [
+        "hydropump",
+        "icebeam",
+        "aurasphere",
+        "darkpulse",
+        "rapidspin",
+        "flashcannon"
+      ]
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "movePool": [
+        "waterfall",
+        "bounce",
+        "dragondance",
+        "earthquake",
+        "icefang",
+        "crunch"
+      ]
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "torrent",
+      "movePool": [
+        "waterfall",
+        "earthquake",
+        "icepunch",
+        "stealthrock",
+        "flipturn",
+        "toxic"
+      ]
+    },
+    {
+      "species": "slowbro",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "movePool": [
+        "scald",
+        "psychic",
+        "slackoff",
+        "calmmind",
+        "icebeam",
+        "thunderwave"
+      ]
+    },
+    {
+      "species": "sharpedo",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "movePool": [
+        "crunch",
+        "liquidation",
+        "waterfall",
+        "protect",
+        "closecombat",
+        "icefang"
+      ]
+    },
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "movePool": [
+        "hydropump",
+        "psychic",
+        "icebeam",
+        "thunderbolt",
+        "rapidspin",
+        "recover"
+      ]
+    },
+    {
+      "species": "milotic",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "marvelscale",
+      "movePool": [
+        "scald",
+        "recover",
+        "icebeam",
+        "toxic",
+        "dragontail",
+        "haze"
+      ]
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "movePool": [
+        "scald",
+        "wish",
+        "protect",
+        "icebeam",
+        "shadowball",
+        "toxic"
+      ]
+    },
+    {
+      "species": "gastrodon",
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "stormdrain",
+      "movePool": [
+        "scald",
+        "earthpower",
+        "recover",
+        "toxic",
+        "icebeam",
+        "clearsmog"
+      ]
+    },
+    {
+      "species": "toxapex",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "movePool": [
+        "scald",
+        "recover",
+        "toxic",
+        "banefulbunker",
+        "haze",
+        "sludgebomb"
+      ]
+    },
+    {
+      "species": "primarina",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "movePool": [
+        "moonblast",
+        "hydropump",
+        "psychic",
+        "energyball",
+        "sparklingaria",
+        "calmmind"
+      ]
+    },
+    {
+      "species": "jellicent",
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "movePool": [
+        "shadowball",
+        "scald",
+        "recover",
+        "willowisp",
+        "icebeam",
+        "taunt"
+      ]
+    },
+    {
+      "species": "pelipper",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "movePool": [
+        "scald",
+        "hurricane",
+        "roost",
+        "uturn",
+        "defog",
+        "hydropump"
+      ]
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "movePool": [
+        "liquidation",
+        "crunch",
+        "icepunch",
+        "dragondance",
+        "swordsdance",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "cloyster",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "movePool": [
+        "iciclespear",
+        "rockblast",
+        "shellsmash",
+        "liquidation",
+        "iceshard",
+        "hydropump"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "swampert",
+      "megaStone": "mega_showdown:swampertite"
+    },
+    {
+      "species": "gyarados",
+      "megaStone": "mega_showdown:gyaradosite"
+    },
+    {
+      "species": "blastoise",
+      "megaStone": "mega_showdown:blastoisinite"
+    },
+    {
+      "species": "slowbro",
+      "megaStone": "mega_showdown:slowbronite"
+    },
+    {
+      "species": "sharpedo",
+      "megaStone": "mega_showdown:sharpedonite"
+    },
+    {
+      "species": "starmie",
+      "megaStone": "zamega:starminite"
+    }
+  ]
+}

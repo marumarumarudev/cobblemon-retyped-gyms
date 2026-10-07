@@ -1,0 +1,202 @@
+{
+  "name": {
+    "literal": "Clair"
+  },
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "switchBias": 0.5,
+      "statMoveBias": 1,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "rockblast",
+        "liquidation"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "air_balloon"
+      ],
+      "species": "cloyster",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "jolly",
+      "ability": "skilllink"
+    },
+    {
+      "moveset": [
+        "iciclecrash",
+        "iceshard",
+        "stoneedge",
+        "knockoff"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "assault_vest"
+      ],
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "adamant",
+      "ability": "thickfat"
+    },
+    {
+      "moveset": [
+        "blizzard",
+        "woodhammer",
+        "earthquake",
+        "icebeam"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "species": "abomasnow",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "quiet",
+      "ability": "snowwarning"
+    },
+    {
+      "moveset": [
+        "bugbuzz",
+        "quiverdance",
+        "roost",
+        "icebeam"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "species": "frosmoth",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "modest",
+      "ability": "icescales"
+    },
+    {
+      "moveset": [
+        "flashcannon",
+        "recover",
+        "knockoff",
+        "icebeam"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "species": "cryogonal",
+      "gender": "GENDERLESS",
+      "level": 96,
+      "nature": "timid",
+      "ability": "levitate"
+    },
+    {
+      "moveset": [
+        "willowisp",
+        "taunt",
+        "shadowball",
+        "spikes"
+      ],
+      "ivs": {
+        "spe": 31,
+        "spd": 31,
+        "spa": 31,
+        "def": 31,
+        "atk": 31,
+        "hp": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spa": 252,
+        "hp": 4
+      },
+      "heldItem": [
+        "zamega:froslassite"
+      ],
+      "species": "froslass",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "timid",
+      "ability": "cursedbody",
+      "mega": true
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

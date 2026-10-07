@@ -1,0 +1,84 @@
+[
+  {
+    "species": "gargrave",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "intimidate",
+    "moves": [
+      "supercellslam",
+      "earthquake",
+      "nightslash",
+      "stoneedge"
+    ],
+    "heldItem": "choice_band"
+  },
+  {
+    "species": "luminarity",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "perishbody",
+    "moves": [
+      "destinybond",
+      "nightgaze",
+      "singularity",
+      "burnup"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "roaringmoon",
+    "gender": "MALE",
+    "nature": "careful",
+    "ability": "protosynthesis",
+    "moves": [
+      "dragondance",
+      "roost",
+      "outrage",
+      "throatchop"
+    ],
+    "heldItem": "mega_showdown:booster_energy",
+    "shiny": true,
+    "raidBoss": true
+  },
+  {
+    "species": "meowscarada",
+    "gender": "FEMALE",
+    "nature": "jolly",
+    "ability": "protean",
+    "moves": [
+      "flowertrick",
+      "nightslash",
+      "uturn",
+      "playrough"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "crimsonmaw",
+    "gender": "GENDERLESS",
+    "nature": "adamant",
+    "ability": "protosynthesis",
+    "moves": [
+      "horrormaw",
+      "shadowforce",
+      "shadowsneak",
+      "closecombat"
+    ],
+    "heldItem": "mega_showdown:booster_energy"
+  },
+  {
+    "species": "tyranitar",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "sandstream",
+    "moves": [
+      "earthquake",
+      "crunch",
+      "firepunch",
+      "stoneedge"
+    ],
+    "heldItem": "mega_showdown:tyranitarite",
+    "shiny": true,
+    "mega": true
+  }
+]

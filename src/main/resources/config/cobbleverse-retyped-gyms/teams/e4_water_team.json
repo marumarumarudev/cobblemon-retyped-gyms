@@ -1,0 +1,82 @@
+[
+  {
+    "species": "walkingwake",
+    "gender": "GENDERLESS",
+    "nature": "timid",
+    "ability": "protosynthesis",
+    "moves": [
+      "hydrovortex",
+      "hydrosteam",
+      "dragonpulse",
+      "flamethrower"
+    ],
+    "heldItem": "mega_showdown:waterium_z"
+  },
+  {
+    "species": "milotic",
+    "gender": "FEMALE",
+    "nature": "bold",
+    "ability": "marvelscale",
+    "moves": [
+      "scald",
+      "icebeam",
+      "recover",
+      "mirrorcoat"
+    ],
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "seregol",
+    "gender": "FEMALE",
+    "nature": "modest",
+    "ability": "swiftswim",
+    "moves": [
+      "moonblast",
+      "surf",
+      "icebeam",
+      "drainingkiss"
+    ],
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "ironbundle",
+    "gender": "MALE",
+    "nature": "timid",
+    "ability": "quarkdrive",
+    "moves": [
+      "freezedry",
+      "hydropump",
+      "icebeam",
+      "encore"
+    ],
+    "heldItem": "heavy_duty_boots"
+  },
+  {
+    "species": "primarina",
+    "gender": "GENDERLESS",
+    "nature": "modest",
+    "ability": "torrent",
+    "moves": [
+      "moonblast",
+      "psychicnoise",
+      "drainingkiss",
+      "surf"
+    ],
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "gyarados",
+    "gender": "MALE",
+    "nature": "adamant",
+    "ability": "moxie",
+    "moves": [
+      "dragondance",
+      "waterfall",
+      "crunch",
+      "earthquake"
+    ],
+    "heldItem": "mega_showdown:gyaradosite",
+    "shiny": true,
+    "mega": true
+  }
+]

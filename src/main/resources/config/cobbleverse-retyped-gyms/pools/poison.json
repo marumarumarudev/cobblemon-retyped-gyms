@@ -1,0 +1,289 @@
+{
+  "type": "poison",
+  "pokemon": [
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "movePool": [
+        "sludgebomb",
+        "shadowball",
+        "focusblast",
+        "nastyplot",
+        "hypnosis",
+        "dazzlinggleam"
+      ]
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "movePool": [
+        "sludgebomb",
+        "gigadrain",
+        "growth",
+        "earthpower",
+        "synthesis",
+        "sleeppowder"
+      ]
+    },
+    {
+      "species": "beedrill",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "movePool": [
+        "poisonjab",
+        "xscissor",
+        "drillrun",
+        "swordsdance",
+        "uturn",
+        "fellstinger"
+      ]
+    },
+    {
+      "species": "crobat",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "movePool": [
+        "bravebird",
+        "crosspoison",
+        "roost",
+        "uturn",
+        "superfang",
+        "taunt"
+      ]
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "liquidooze",
+      "movePool": [
+        "sludgebomb",
+        "scald",
+        "toxicspikes",
+        "rapidspin",
+        "icebeam",
+        "knockoff"
+      ]
+    },
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "punkrock",
+      "movePool": [
+        "boomburst",
+        "overdrive",
+        "sludgewave",
+        "voltswitch",
+        "shiftgear",
+        "drainpunch"
+      ]
+    },
+    {
+      "species": "drapion",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sniper",
+      "movePool": [
+        "poisonjab",
+        "knockoff",
+        "swordsdance",
+        "earthquake",
+        "crosspoison",
+        "aquatail"
+      ]
+    },
+    {
+      "species": "toxapex",
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "movePool": [
+        "banefulbunker",
+        "scald",
+        "recover",
+        "toxic",
+        "haze",
+        "sludgebomb"
+      ]
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "movePool": [
+        "sludgewave",
+        "earthpower",
+        "icebeam",
+        "flamethrower",
+        "thunderbolt",
+        "superpower"
+      ]
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sheerforce",
+      "movePool": [
+        "sludgewave",
+        "earthpower",
+        "icebeam",
+        "stealthrock",
+        "flamethrower",
+        "toxicspikes"
+      ]
+    },
+    {
+      "species": "roserade",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "movePool": [
+        "sludgebomb",
+        "leafstorm",
+        "gigadrain",
+        "spikes",
+        "sleeppowder",
+        "dazzlinggleam"
+      ]
+    },
+    {
+      "species": "salazzle",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "corrosion",
+      "movePool": [
+        "sludgewave",
+        "flamethrower",
+        "nastyplot",
+        "toxic",
+        "dragonpulse",
+        "substitute"
+      ]
+    },
+    {
+      "species": "scolipede",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "movePool": [
+        "megahorn",
+        "poisonjab",
+        "earthquake",
+        "swordsdance",
+        "rockslide",
+        "spikes"
+      ]
+    },
+    {
+      "species": "toxicroak",
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "dryskin",
+      "movePool": [
+        "gunkshot",
+        "drainpunch",
+        "suckerpunch",
+        "swordsdance",
+        "icepunch",
+        "knockoff"
+      ]
+    },
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "movePool": [
+        "sludgebomb",
+        "willowisp",
+        "painsplit",
+        "flamethrower",
+        "toxicspikes",
+        "destinybond"
+      ]
+    },
+    {
+      "species": "muk",
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "poisontouch",
+      "movePool": [
+        "gunkshot",
+        "knockoff",
+        "shadowsneak",
+        "firepunch",
+        "curse",
+        "icepunch"
+      ]
+    },
+    {
+      "species": "dragalge",
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "adaptability",
+      "movePool": [
+        "dracometeor",
+        "sludgewave",
+        "focusblast",
+        "scald",
+        "toxicspikes",
+        "dragonpulse"
+      ]
+    },
+    {
+      "species": "garbodor",
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "aftermath",
+      "movePool": [
+        "gunkshot",
+        "spikes",
+        "toxicspikes",
+        "drainpunch",
+        "seedbomb",
+        "bodypress"
+      ]
+    },
+    {
+      "species": "melofly",
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "effectspore",
+      "movePool": [
+        "bugbuzz",
+        "sludgebomb",
+        "hurricane",
+        "quiverdance",
+        "airslash",
+        "toxicballad"
+      ]
+    }
+  ],
+  "megas": [
+    {
+      "species": "gengar",
+      "megaStone": "mega_showdown:gengarite"
+    },
+    {
+      "species": "venusaur",
+      "megaStone": "mega_showdown:venusaurite"
+    },
+    {
+      "species": "beedrill",
+      "megaStone": "mega_showdown:beedrillite"
+    },
+    {
+      "species": "melofly",
+      "megaStone": "mega_showdown:meloflite"
+    }
+  ]
+}
