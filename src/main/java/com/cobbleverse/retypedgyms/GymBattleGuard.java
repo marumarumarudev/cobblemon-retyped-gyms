@@ -470,15 +470,31 @@ public final class GymBattleGuard {
             return false;
         }
         String clean = id.toLowerCase(Locale.ROOT).replace(" ", "_").replace("-", "_");
-        if (bannedSpeciesFallback().contains(clean)) {
+        // strip namespace if present (modid:species -> species)
+        String bare = clean.contains(":") ? clean.substring(clean.lastIndexOf(':') + 1) : clean;
+
+        if (bannedSpeciesFallback().contains(clean) || bannedSpeciesFallback().contains(bare)) {
             return true;
         }
-        if (customBannedSpecies().contains(clean)) {
+        if (customBannedSpecies().contains(clean) || customBannedSpecies().contains(bare)) {
             return true;
         }
         for (String custom : customBannedSpecies()) {
-            if (!clean.equals(custom) && !clean.endsWith(":" + custom) && !clean.endsWith("/" + custom) && !clean.endsWith("_" + custom)) continue;
-            return true;
+            if (custom == null || custom.isEmpty()) continue;
+            String c = custom.toLowerCase(Locale.ROOT).replace(" ", "_").replace("-", "_");
+            String cBare = c.contains(":") ? c.substring(c.lastIndexOf(':') + 1) : c;
+            if (clean.equals(c) || bare.equals(cBare)
+                    || clean.endsWith(":" + cBare) || clean.endsWith("/" + cBare) || clean.endsWith("_" + cBare)
+                    || bare.contains(cBare) || clean.contains(cBare)) {
+                return true;
+            }
+        }
+        for (String banned : bannedSpeciesFallback()) {
+            if (banned == null || banned.isEmpty()) continue;
+            String b = banned.toLowerCase(Locale.ROOT);
+            if (bare.equals(b) || clean.endsWith(":" + b) || bare.contains(b)) {
+                return true;
+            }
         }
         return false;
     }

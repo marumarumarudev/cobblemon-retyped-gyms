@@ -22,40 +22,63 @@ public class RetypedGyms implements ModInitializer {
     @Override
     public void onInitialize() {
         LOGGER.info("[RetypedGyms] Initializing Cobbleverse Retyped Gyms mod v1.1.0 (data-driven)...");
-        ModConfig cfg = ModConfig.get();
+        ModConfig.get(); // load config early
         GymBattleGuard.register();
         GymRaidBossManager.register();
 
-        if (cfg.generateDatapackOnStart) {
-            try {
-                Path gameDir = FabricLoader.getInstance().getGameDir();
-                Path globalDatapacksDir = gameDir.resolve("datapacks");
-                if (Files.exists(globalDatapacksDir)) {
-                    LOGGER.info("[RetypedGyms] Found global datapacks directory: {}", globalDatapacksDir);
-                    writeDatapack(globalDatapacksDir.resolve(cfg.datapackFolderName));
-                }
-            } catch (Exception e) {
-                LOGGER.warn("[RetypedGyms] Could not write global datapack: {}", e.getMessage());
-            }
-        }
-
+        // Write datapack once, at server start — prefer global datapacks/ if it exists
         ServerLifecycleEvents.SERVER_STARTING.register(server -> {
             GymBattleGuard.register();
-            if (!ModConfig.get().generateDatapackOnStart) return;
-            LOGGER.info("[RetypedGyms] Server starting — ensuring world datapack has latest teams...");
-            Path worldDatapackDir = getWorldDatapackDir(server);
-            if (worldDatapackDir != null) {
-                writeDatapack(worldDatapackDir.resolve(MOD_ID));
+            ModConfig cfg = ModConfig.get();
+            if (!cfg.generateDatapackOnStart) {
+                LOGGER.info("[RetypedGyms] generateDatapackOnStart=false — skipping datapack write.");
+                return;
+            }
+
+            Path target = resolveSingleDatapackRoot(server, cfg);
+            if (target != null) {
+                writeDatapack(target);
+            } else {
+                LOGGER.warn("[RetypedGyms] Could not resolve a datapack directory — teams not written.");
             }
         });
     }
 
+    /**
+     * Prefer global gameDir/datapacks when it exists; otherwise use the world's datapacks folder.
+     * Only one location is ever written.
+     */
+    private static Path resolveSingleDatapackRoot(MinecraftServer server, ModConfig cfg) {
+        Path gameDir = FabricLoader.getInstance().getGameDir();
+        Path globalDatapacks = gameDir.resolve("datapacks");
+
+        if (Files.isDirectory(globalDatapacks)) {
+            Path dest = globalDatapacks.resolve(cfg.datapackFolderName);
+            LOGGER.info("[RetypedGyms] Using global datapacks folder: {}", dest);
+            return dest;
+        }
+
+        Path worldDir = getWorldDatapackDir(server);
+        if (worldDir != null) {
+            Path dest = worldDir.resolve(cfg.datapackFolderName);
+            LOGGER.info("[RetypedGyms] No global datapacks/ — using world folder: {}", dest);
+            return dest;
+        }
+        return null;
+    }
+
     public static void writeDatapack(Path datapackRoot) {
         try {
+            List<GymLeaderDef> leaders = ModConfig.get().leaders;
+            if (leaders == null || leaders.isEmpty()) {
+                LOGGER.warn("[RetypedGyms] Skipping datapack write to {} — 0 leaders loaded (config error?). Existing trainers left untouched.",
+                        datapackRoot);
+                return;
+            }
+
             Path trainersDir = datapackRoot.resolve("data/rctmod/trainers");
             Files.createDirectories(trainersDir);
 
-            // pack.mcmeta
             Path meta = datapackRoot.resolve("pack.mcmeta");
             if (!Files.exists(meta)) {
                 Files.writeString(meta, """
@@ -68,7 +91,6 @@ public class RetypedGyms implements ModInitializer {
                     """);
             }
 
-            List<GymLeaderDef> leaders = ModConfig.get().leaders;
             int success = 0;
             for (GymLeaderDef leader : leaders) {
                 try {
@@ -94,12 +116,11 @@ public class RetypedGyms implements ModInitializer {
     public static Path getWorldDatapackDir(MinecraftServer server) {
         try {
             Path datapacks = server.getSavePath(WorldSavePath.DATAPACKS);
-            LOGGER.info("[RetypedGyms] Resolved datapack path via LevelResource: {}", datapacks);
+            LOGGER.info("[RetypedGyms] Resolved world datapack path: {}", datapacks);
             return datapacks;
         } catch (Exception e) {
             LOGGER.warn("[RetypedGyms] getSavePath failed: {}", e.getMessage());
         }
-        // fallbacks
         try {
             Path runDir = FabricLoader.getInstance().getGameDir();
             for (String candidate : List.of("world/datapacks", "saves/world/datapacks")) {

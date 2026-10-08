@@ -1,20 +1,134 @@
 # Cobbleverse Retyped Gyms
 
-**Version 1.1.0** (decompiled + improved from the abandoned 1.0.0 jar)
+**Version 1.2.0** — data-driven gym teams, configurable bans, resilient config loading
 
-Randomizes Kanto, Johto and Hoenn Gym Leaders + Elite Four with type-themed competitive teams every server start.  
-Soft-depends on **Cobblemon** + **RCT (Radical Cobblemon Trainers)**.
+Type-themed competitive teams for Kanto, Johto, and Hoenn Gym Leaders + Elite Four. Soft-depends on **Cobblemon** and **RCT (Radical Cobblemon Trainers)**.
 
-## Improvements in 1.1.0
+---
 
-- **Editable config** (`config/cobbleverse-retyped-gyms.json`)
-  - `bannedLabels` – Cobblemon labels that are banned in gym battles
-  - `bannedSpeciesFallback` – species name blacklist
-  - `customBannedSpecies` – extra custom bans (e.g. shedinja)
-  - `generateDatapackOnStart` / `debugLogging`
-- Cleaner project structure with Fabric Loom
-- Updated `fabric.mod.json` (suggests Cobblemon + RCT)
-- Source is now available for further improvement
+## Authors
+
+| Role | Name |
+|------|------|
+| Original mod | Antigravity |
+| Decompile, restore, data-driven rewrite & 1.2.0 improvements | **zmoonmaru** |
+
+License: MIT
+
+---
+
+## What's new in 1.2.0
+
+- **Single datapack write** — if a global `datapacks/` folder exists, trainers are written only there (`datapackFolderName`); otherwise only the world datapacks folder. No more duplicate packs.
+- **Resilient config loading** — one broken team/settings JSON no longer zeros the entire config. Bad files are skipped and logged; the rest still load.
+- **Trailing-comma tolerance** — minor JSON editor mistakes (`,}` / `,]`) are stripped before parse.
+- **Empty-pack guard** — if 0 leaders load, the mod **does not** overwrite an existing good datapack.
+- **Stronger ban matching** — custom bans match bare names, namespaced ids (`mod:species`), and partial suffixes (e.g. `bloodsplitter`, `faismythicalmonstrosities:bloodsplitter`).
+- Clearer startup logs (leader/team/pool counts + ban list summary).
+
+### Still from 1.1.0
+
+- Fully data-driven teams, pools, leaders, and bans (JSON, no recompile)
+- Nested config folder under `config/cobbleverse-retyped-gyms/`
+- Fabric Loom + Yarn mappings
+
+---
+
+## Config layout
+
+On first run the mod copies defaults from the jar into:
+
+```
+config/cobbleverse-retyped-gyms/
+├── settings.json       # bans, datapack toggle, folder name
+├── leaders.json        # all trainers (id, name, level, items, team ref)
+├── teams/
+│   ├── brock_team.json
+│   ├── misty_team.json
+│   └── …               # 39 fixed teams
+└── pools/
+    ├── steel.json      # pokemon pool + mega options
+    ├── poison.json
+    └── …               # 16 types
+```
+
+Edit any of these → **restart the server** → changes apply. No rebuild needed.
+
+> **Tip:** Keep JSON valid (no trailing commas if you can). Invalid files are logged as `Skipping bad team file …` / `Invalid JSON in settings.json`. Use a validator if bans or teams stop applying.
+
+### `settings.json` keys
+
+| Key | Default | Purpose |
+|-----|---------|---------|
+| `generateDatapackOnStart` | `true` | Write RCT trainer datapack on server start |
+| `datapackFolderName` | `zz-cobbleverse-retyped-gyms` | Datapack folder name (global or world) |
+| `debugLogging` | `false` | Extra log output |
+| `bannedLabels` | legendary, mythical, … | Cobblemon labels banned in **gym / E4** battles |
+| `bannedSpeciesFallback` | mewtwo, … | Species name blacklist |
+| `customBannedSpecies` | shade, shedinja, annihilape | Extra custom bans (fakemon ids work here) |
+
+Example custom bans:
+
+```json
+"customBannedSpecies": [
+  "shade",
+  "shedinja",
+  "annihilape",
+  "bloodsplitter"
+]
+```
+
+Bans only apply in gym / Elite Four battles (not every wild or casual trainer fight).
+
+### Team JSON (fixed teams)
+
+```json
+{
+  "species": "lopunny",
+  "gender": "MALE",
+  "nature": "jolly",
+  "ability": "limber",
+  "moves": ["fakeout", "return", "highjumpkick", "icepunch"],
+  "heldItem": "life_orb",
+  "aspects": ["centonian"],
+  "shiny": false,
+  "mega": false,
+  "raidBoss": false
+}
+```
+
+- **species** — base species id only (`lopunny`), not `lopunny centonian`
+- **aspects** — form / fakemon aspect ids (e.g. `["centonian"]`, `["hisuian"]`)
+- **raidBoss** — special handling via `GymRaidBossManager`
+
+### `leaders.json`
+
+Each entry points at a team file by name (without `.json`):
+
+```json
+{
+  "fileId": "kanto_brock",
+  "displayName": "Brock",
+  "level": 36,
+  "itemCount": 2,
+  "team": "brock_team"
+}
+```
+
+---
+
+## Datapack generation
+
+On server start (if `generateDatapackOnStart` is true):
+
+1. Prefer **global** `datapacks/<datapackFolderName>/` when that folder exists  
+2. Otherwise write to the **world** datapacks folder under the same name  
+
+Only **one** location is written. If leaders failed to load (0), write is skipped so an existing pack is not wiped.
+
+Remove old duplicates if you still have them (e.g. world `cobbleverse-retyped-gyms` plus global `zz-cobbleverse-retyped-gyms`, or legacy `!zzRetypedGyms.zip`).
+
+---
 
 ## Building
 
@@ -22,58 +136,49 @@ Soft-depends on **Cobblemon** + **RCT (Radical Cobblemon Trainers)**.
 ./gradlew build
 ```
 
-The jar will appear in `build/libs/`.
+Output: `build/libs/cobbleverse-retyped-gyms-1.2.0.jar`
 
-> **Note on mappings**  
-> The original jar was built against intermediary. This project now uses standard Yarn mappings so Gradle configures cleanly.
-> The Java sources still contain intermediary names (`class_XXX`, `method_XXX`) from decompilation.
-> Compile will report unresolved symbols until those are replaced with Yarn names
-> (or you work only on the pure-Java parts: config, team builder, pools, etc.).  
-> For long-term maintenance you should re-map the Minecraft references to Yarn or official Mojmap and clean the names.
+Requires **Java 21**, Minecraft **1.21.1**, Fabric Loader ≥ 0.16, Fabric API. Soft-depends on Cobblemon + RCT.
+
+---
 
 ## Runtime behaviour
 
-1. On mod init + every server start the mod writes a datapack  
-   `zz-cobbleverse-retyped-gyms` / `cobbleverse-retyped-gyms` containing RCT trainer JSONs with the retyped teams.
-2. `GymBattleGuard` uses reflection on Cobblemon events to cancel gym battles that contain banned Pokémon.
-3. Raid-boss Pokémon (marked in the fixed teams) get special handling via `GymRaidBossManager`.
+1. Config folder is created on first run (defaults copied from the jar; existing files are not overwritten).
+2. On server start, one RCT trainer datapack is written for every leader in `leaders.json`.
+3. `GymBattleGuard` subscribes to Cobblemon battle events and cancels gym/E4 fights that include banned species or labels.
+4. Raid-boss entries in team JSON are handled by `GymRaidBossManager`.
 
-## Further recommended improvements
+Healthy startup looks like:
 
-- Move the giant hardcoded `*_TEAM` lists out of `RetypedGyms.java` into JSON files under `data/`.
-- Make type pools (`TypedPokemonPool`) data-driven.
-- Replace intermediary names with Yarn/Mojmap.
-- Add a `/retypedgyms reload` command.
-- Support a persistent seed so the same randomisation can be shared across servers.
+```
+[RetypedGyms] Config loaded from ... (70 leaders, 39 teams, 16 pools)
+[RetypedGyms] Ban lists: 5 labels, … 4 custom ([shade, shedinja, annihilape, bloodsplitter])
+[GymBattleGuard] Successfully registered! (BATTLE_STARTED_PRE=ACTIVE, …)
+[RetypedGyms] Using global datapacks folder: .../zz-cobbleverse-retyped-gyms
+[RetypedGyms] Done. Generated 70/70 gym leader teams into ...
+```
 
-## Authors
+If you see `Failed to load config, using empty defaults` or `Generated 0/0`, fix JSON under `config/cobbleverse-retyped-gyms/` (often a broken `teams/*.json`).
 
-| Role | Name |
-|------|------|
-| Original mod | Antigravity |
-| Decompile, restore, improvements & data-driven rewrite | **zmoonmaru** |
+---
+
+## Troubleshooting
+
+| Symptom | Likely cause |
+|---------|----------------|
+| Bans do nothing | Config failed to load (empty ban lists) — check log for JSON errors |
+| `Generated 0/0` | `leaders.json` / teams failed to parse |
+| Still seeing Volcarona / old teams | Competing old datapack still enabled — remove duplicates |
+| Fakemon form wrong | Use `"species": "base"` + `"aspects": ["form"]`, not a combined name |
+| Edits ignored | Server not restarted, or editing a file the server isn’t reading |
+
+---
+
 
 ## License
 
-MIT – see `LICENSE`.
+MIT — see `LICENSE`.
 
-## Config layout (v1.1 data-driven)
-
-All runtime config lives under:
-
-```
-config/cobbleverse-retyped-gyms/
-├── settings.json      # bans, datapack on/off, folder name
-├── leaders.json       # list of trainers (fileId, name, level, itemCount, team)
-├── teams/
-│   ├── brock_team.json
-│   ├── misty_team.json
-│   └── ...            # 39 fixed teams
-└── pools/
-    ├── steel.json     # pokemon + megas for that type
-    ├── poison.json
-    └── ...            # 16 types
-```
-
-Defaults are shipped inside the jar and copied to the config folder on first run.
-Edit any JSON and restart the server — no recompile needed.
+Original work © Antigravity.  
+1.1.0–1.2.0 restore & improvements © zmoonmaru.
